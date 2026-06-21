@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0614.1034",
+  "db_version": "26.0621.0945",
   "zone": [
     {
       "cde post.": "43270",
@@ -387,28 +387,6 @@
       "restaurants": [],
       "site": "Bettant:Ambérieu",
       "zones": []
-    },
-    {
-      "cde post.": "42130",
-      "ig": "4201901",
-      "restaurants": [
-        {
-          "adresse": "Le Cas d\u0027Al du Lignon (Kebab)\n43 Rue de Lyon\n42130 BOËN-SUR-LIGNON",
-          "codePostal": "",
-          "lieuDit": "",
-          "nom": "",
-          "nomRue": "",
-          "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
-          "telephone": "Tel : 04.77.24.19.88",
-          "trajet": "",
-          "ville": ""
-        }
-      ],
-      "site": "Boën",
-      "zones": [
-        "AUV"
-      ]
     },
     {
       "cde post.": "42130",
