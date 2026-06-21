@@ -1,0 +1,32 @@
+{
+  "androidId": "45a8afa59778bb27",
+  "dataZone": {
+    "cde post.": "10001",
+    "ig": "0000100",
+    "restaurants": [
+      {
+        "adresse": "Bobo\nBibi\n10 Bd. Boubou\n42000 LYON",
+        "codePostal": "42000",
+        "lieuDit": "Bibi",
+        "nom": "Bobo",
+        "nomRue": "Bd. Boubou",
+        "numeroRue": "10",
+        "ouverture": "Lun., Mar., Ven., Sam.",
+        "telephone": "Tel : 08.25.82.50.22",
+        "trajet": "4",
+        "ville": "LYON"
+      }
+    ],
+    "site": "AAAAABBB",
+    "zones": [
+      "AUV",
+      "SE"
+    ]
+  },
+  "id": "P4c_1782076240086",
+  "siteName": "AAAAABBB",
+  "timestamp": 1782076240089,
+  "type": "SITE",
+  "userName": "P4c",
+  "zoneIg": "0000100"
+}
