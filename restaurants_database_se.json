@@ -1,10 +1,22 @@
 {
-  "db_version": "26.0622.2212",
+  "db_version": "26.0622.2232",
   "zone": [
     {
       "cde post.": "",
       "ig": "TEST001",
       "restaurants": [
+        {
+          "adresse": "Pizza Lolo\n2 Rue Des Italiens\n43000 ORLÉANS",
+          "codePostal": "43000",
+          "lieuDit": "",
+          "nom": "Pizza Lolo",
+          "nomRue": "Rue Des Italiens",
+          "numeroRue": "2",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
+          "telephone": "Tel : 08.76.54.32.10",
+          "trajet": "60",
+          "ville": "ORLÉANS"
+        },
         {
           "adresse": "Chez Ginette\n1 Rue D'ici-là\n42000 LYON",
           "codePostal": "42000",
