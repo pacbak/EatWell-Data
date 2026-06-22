@@ -1,0 +1,44 @@
+{
+  "androidId": "45a8afa59778bb27",
+  "dataZone": {
+    "cde post.": "",
+    "ig": "TEST001",
+    "restaurants": [
+      {
+        "adresse": "Pizza Lolo\n2 Rue de la République\n43000 LE PUY EN VELAY",
+        "codePostal": "43000",
+        "lieuDit": "",
+        "nom": "Pizza Lolo",
+        "nomRue": "Rue de la République",
+        "numeroRue": "2",
+        "ouverture": "Ven., Sam., Dim.",
+        "telephone": "Tel : 01.23.45.67.89",
+        "trajet": "7",
+        "ville": "LE PUY EN VELAY"
+      },
+      {
+        "adresse": "Chez Ginette\n1 Rue D'ici-là\n42000 LYON",
+        "codePostal": "42000",
+        "lieuDit": "",
+        "nom": "Chez Ginette",
+        "nomRue": "Rue D'ici-là",
+        "numeroRue": "1",
+        "ouverture": "Lun., Mar., Mer., Jeu.",
+        "telephone": "Tel : 04.77.88.99.00",
+        "trajet": "15",
+        "ville": "LYON"
+      }
+    ],
+    "site": "TEST",
+    "zones": [
+      "AUV",
+      "SE"
+    ]
+  },
+  "id": "P4c_1782159251344",
+  "siteName": "TEST",
+  "timestamp": 1782159251344,
+  "type": "SITE",
+  "userName": "P4c",
+  "zoneIg": "TEST001"
+}
