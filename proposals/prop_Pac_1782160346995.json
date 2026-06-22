@@ -1,0 +1,21 @@
+{
+  "androidId": "45a8afa59778bb27",
+  "dataRestaurant": {
+    "adresse": "Pizza Lolo\n2 Rue Des Italiens\n43000 ORLÉANS",
+    "codePostal": "43000",
+    "lieuDit": "",
+    "nom": "Pizza Lolo",
+    "nomRue": "Rue Des Italiens",
+    "numeroRue": "2",
+    "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
+    "telephone": "Tel : 08.76.54.32.10",
+    "trajet": "60",
+    "ville": "ORLÉANS"
+  },
+  "id": "Pac_1782160346987",
+  "siteName": "TEST",
+  "timestamp": 1782160346995,
+  "type": "RESTAURANT",
+  "userName": "Pac",
+  "zoneIg": "TEST001"
+}
