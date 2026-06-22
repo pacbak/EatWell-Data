@@ -1,0 +1,44 @@
+{
+  "androidId": "45a8afa59778bb27",
+  "dataZone": {
+    "cde post.": "42170",
+    "ig": "4217011",
+    "restaurants": [
+      {
+        "adresse": "Gino Pizza\n22 Rue Des Aléas\n43400 LE PUY EN VELAY",
+        "codePostal": "43400",
+        "lieuDit": "",
+        "nom": "Gino Pizza",
+        "nomRue": "Rue Des Aléas",
+        "numeroRue": "22",
+        "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
+        "telephone": "Tel : 08.51.12.36.88",
+        "trajet": "17",
+        "ville": "LE PUY EN VELAY"
+      },
+      {
+        "adresse": "Chez Zouzou\n2 Ch. De La Tulipe 🌷\n42000 LYON",
+        "codePostal": "42000",
+        "lieuDit": "",
+        "nom": "Chez Zouzou",
+        "nomRue": "Ch. De La Tulipe 🌷",
+        "numeroRue": "2",
+        "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
+        "telephone": "Tel : 08.51.26.98.77",
+        "trajet": "122",
+        "ville": "LYON"
+      }
+    ],
+    "site": "AAAAA",
+    "zones": [
+      "AUV",
+      "SE"
+    ]
+  },
+  "id": "P4c_1782149297290",
+  "siteName": "AAAAA",
+  "timestamp": 1782149297290,
+  "type": "SITE",
+  "userName": "P4c",
+  "zoneIg": "4217011"
+}
