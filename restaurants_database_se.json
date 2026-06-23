@@ -1,18 +1,18 @@
 {
-  "db_version": "26.0622.2232",
+  "db_version": "26.0623.1943",
   "zone": [
     {
       "cde post.": "",
       "ig": "TEST001",
       "restaurants": [
         {
-          "adresse": "Pizza Lolo\n2 Rue Des Italiens\n43000 ORLÉANS",
+          "adresse": "Pizza Lolitas\n2 Rue Des Italiens\n43000 ORLÉANS",
           "codePostal": "43000",
           "lieuDit": "",
-          "nom": "Pizza Lolo",
+          "nom": "Pizza Lolitas",
           "nomRue": "Rue Des Italiens",
           "numeroRue": "2",
-          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
+          "ouverture": "",
           "telephone": "Tel : 08.76.54.32.10",
           "trajet": "60",
           "ville": "ORLÉANS"
