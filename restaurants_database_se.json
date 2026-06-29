@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0623.1943",
+  "db_version": "26.0629.2021",
   "zone": [
     {
       "cde post.": "",
@@ -118,16 +118,16 @@
       "ig": "0701001",
       "restaurants": [
         {
-          "adresse": "Restaurant Salimar\n4 rue Prix Barou\n07100 ANNONAY",
-          "codePostal": "",
+          "adresse": "Restaurant Salimar\n \n07100 ANNONAY",
+          "codePostal": "07100",
           "lieuDit": "",
-          "nom": "",
+          "nom": "Restaurant Salimar",
           "nomRue": "",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 09.81.11.86.12",
           "trajet": "",
-          "ville": ""
+          "ville": "ANNONAY"
         }
       ],
       "site": "Annonay 1:Bramefan",
