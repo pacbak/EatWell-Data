@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0629.2157",
+  "db_version": "26.0629.2217",
   "zone": [
     {
       "cde post.": "",
@@ -70,7 +70,7 @@
           "nom": "Les Ateliers du Mont Bar",
           "nomRue": "rue du Franges",
           "numeroRue": "7",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 09.56.36.54.06",
           "trajet": "4min",
           "ville": "ALLEGRE"
@@ -82,7 +82,7 @@
           "nom": "L'Escale",
           "nomRue": "Rue de la Reilhade",
           "numeroRue": "",
-          "ouverture": "lun. mar. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.71.03.36.26",
           "trajet": "17min",
           "ville": "CHASPUZAC"
@@ -104,7 +104,7 @@
           "nom": "Bar du Rond-Point",
           "nomRue": "rue Daniel Fargeot",
           "numeroRue": "4",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.26.81.28.28",
           "trajet": "",
           "ville": "AMPLEPUIS"
@@ -144,7 +144,7 @@
           "nom": "Restaurant Salimar",
           "nomRue": "rue Prix Barou",
           "numeroRue": "4",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 09.81.11.86.12",
           "trajet": "",
           "ville": "ANNONAY"
@@ -164,7 +164,7 @@
           "nom": "Café Gourmand*",
           "nomRue": "Place de l'Eglise",
           "numeroRue": "6",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.78.c21.19.09",
           "trajet": "23min",
           "ville": "BULLY"
@@ -184,7 +184,7 @@
           "nom": "La Vieille Auberge",
           "nomRue": "Rue de l'Eglise",
           "numeroRue": "",
-          "ouverture": "lun. mar. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.70.59.34.01",
           "trajet": "24min",
           "ville": "LE MAYET DE MONTAGNE"
@@ -206,7 +206,7 @@
           "nom": "Auberge à la Vielle Cure",
           "nomRue": "rue de la Cure",
           "numeroRue": "37",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 07.81.47.14.18",
           "trajet": "",
           "ville": "ARANDAS"
@@ -226,7 +226,7 @@
           "nom": "L'OXO",
           "nomRue": "avenue du Pont",
           "numeroRue": "116",
-          "ouverture": "lun. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.27.64.09.29",
           "trajet": "10min",
           "ville": "AUREC/LOIRE"
@@ -238,7 +238,7 @@
           "nom": "La Frontiere Norbert Bayt",
           "nomRue": "rue du 19 Mars 1962",
           "numeroRue": "1",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.27.77.40.69",
           "trajet": "10min",
           "ville": "AUREC/LOIRE"
@@ -260,7 +260,7 @@
           "nom": "Restaurant l'Opthimus",
           "nomRue": "rue Jules Vernes",
           "numeroRue": "41",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.73.75.74.42",
           "trajet": "3min",
           "ville": "CLERMONT-FERRAND"
@@ -272,7 +272,7 @@
           "nom": "La Cote Rotie",
           "nomRue": "rue Nicolas Joseph Cugnot",
           "numeroRue": "6",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.73.91.04.40",
           "trajet": "6min",
           "ville": "CLERMONT-FERRAND"
@@ -284,7 +284,7 @@
           "nom": "Le Bœuf Brezet",
           "nomRue": "Av. du Brezet",
           "numeroRue": "144",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.73.90.25.26",
           "trajet": "3min",
           "ville": "CLERMONT-FERRAND"
@@ -296,7 +296,7 @@
           "nom": "Caffe Mazzo",
           "nomRue": "rue de l'Eminée",
           "numeroRue": "23",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.73.44.22.22",
           "trajet": "9min",
           "ville": "CLERMONT-FERRAND"
@@ -308,7 +308,7 @@
           "nom": "DA VINCI Café",
           "nomRue": "av. Blériot",
           "numeroRue": "5",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.73.26.81.06",
           "trajet": "4min",
           "ville": "CLERMONT-FERRAND"
@@ -330,7 +330,7 @@
           "nom": "Auberge du Pont des Samsons",
           "nomRue": "Rte de Saint-Vincent",
           "numeroRue": "85",
-          "ouverture": "lun. mar. mer. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.04.32.09",
           "trajet": "6min",
           "ville": "QUINCE-EN-BEAUJOLAIS"
@@ -342,7 +342,7 @@
           "nom": "Auberge du Pont des Samsons*",
           "nomRue": "Rte de Saint-Vincent",
           "numeroRue": "85",
-          "ouverture": "lun. mar. mer. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.04.32.09",
           "trajet": "6min",
           "ville": "QUINCE-EN-BEAUJOLAIS"
@@ -362,7 +362,7 @@
           "nom": "La Vieille Ferme",
           "nomRue": "Les Vivats",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.71.61.47.33",
           "trajet": "5min",
           "ville": "BEAUZAC"
@@ -374,7 +374,7 @@
           "nom": "Les Bruyères",
           "nomRue": "Route de Bas en Basset",
           "numeroRue": "",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.71.66.36.87",
           "trajet": "13min",
           "ville": "MONISTROL-SUR-LOIRE"
@@ -386,7 +386,7 @@
           "nom": "Aux 2 Coqs",
           "nomRue": "Le pré du Milieu",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.71.66.72.15",
           "trajet": "12min",
           "ville": "BAS-EN-BASSET"
@@ -408,7 +408,7 @@
           "nom": "L'Eden",
           "nomRue": "Rue du Commerce",
           "numeroRue": "185",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 09.53.31.95.45",
           "trajet": "",
           "ville": "BELMONT DE LA LOIRE"
@@ -457,7 +457,7 @@
           "nom": "Le Cas d'Al du Lignon (Kebab)",
           "nomRue": "Rue de Lyon",
           "numeroRue": "43",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.24.19.88",
           "trajet": "",
           "ville": "BOËN-SUR-LIGNON"
@@ -479,7 +479,7 @@
           "nom": "Le Bistrot de la Famille",
           "nomRue": "Place de la Liberté",
           "numeroRue": "10",
-          "ouverture": "mar. mer. jeu. ven. sam.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.39.62.25",
           "trajet": "6min",
           "ville": "BOURG-ARGENTAL"
@@ -501,7 +501,7 @@
           "nom": "Le Bistrot de la Famille",
           "nomRue": "Place de la Liberté",
           "numeroRue": "10",
-          "ouverture": "mar. mer. jeu. ven. sam.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.39.62.25",
           "trajet": "7min",
           "ville": "BOURG-ARGENTAL"
@@ -523,7 +523,7 @@
           "nom": "Auberge le 1013 - Chez Virginie",
           "nomRue": "rue de Clermont",
           "numeroRue": "12",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 06.63.65.29.34",
           "trajet": "5min",
           "ville": "CHABRELOCHE"
@@ -545,7 +545,7 @@
           "nom": "Le Fer à Cheval",
           "nomRue": "Rue du Forez",
           "numeroRue": "",
-          "ouverture": "lun. mar. mer. jeu. ven. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Dim.",
           "telephone": "Tel : 04.77.76.11.86",
           "trajet": "6min",
           "ville": "MAGNEUX-HAUTE-RIVE"
@@ -557,7 +557,7 @@
           "nom": "Restaurant TAKA",
           "nomRue": "Rte de la Gare",
           "numeroRue": "86",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.54.58.84",
           "trajet": "9min",
           "ville": "BOISSET LES MONTROND"
@@ -623,7 +623,7 @@
           "nom": "Le Feugerolles",
           "nomRue": "LE CHAMBON FEUGEROLLES",
           "numeroRue": "42500",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 09.80.81.87.78",
           "trajet": "4min",
           "ville": ""
@@ -645,7 +645,7 @@
           "nom": "Le Chasseland",
           "nomRue": "Chem. de la Place",
           "numeroRue": "4",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.78.49.02.68",
           "trajet": "",
           "ville": "CHASSIEU"
@@ -665,7 +665,7 @@
           "nom": "Le Petit Graillou",
           "nomRue": "Pl. des Parsières",
           "numeroRue": "9",
-          "ouverture": "mar. mer. jeu. ven. sam.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.73.69.37.13",
           "trajet": "",
           "ville": "ORCINES"
@@ -677,7 +677,7 @@
           "nom": "Le Petit Casse Graine",
           "nomRue": "Rte du Puy de Dôme",
           "numeroRue": "34",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.73.62.11.24",
           "trajet": "",
           "ville": "Orcines"
@@ -699,7 +699,7 @@
           "nom": "Le Bistrot Gourmand",
           "nomRue": "Rue Paul Malerba",
           "numeroRue": "11",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 09.81.13.75.80",
           "trajet": "5min",
           "ville": "COURS"
@@ -731,7 +731,7 @@
           "nom": "Le Bistrot Gourmand",
           "nomRue": "Rue Paul Malerba",
           "numeroRue": "11",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 09.81.13.75.80",
           "trajet": "",
           "ville": "COURS"
@@ -763,7 +763,7 @@
           "nom": "Buffalo Grill",
           "nomRue": "Imp. des Artisans",
           "numeroRue": "14",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.74.90.43",
           "trajet": "",
           "ville": "FIRMINY"
@@ -775,7 +775,7 @@
           "nom": "Le Feugerolles",
           "nomRue": "LE CHAMBON FEUGEROLLES",
           "numeroRue": "42500",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 09.80.81.87.78",
           "trajet": "",
           "ville": ""
@@ -797,7 +797,7 @@
           "nom": "Buffalo Grill",
           "nomRue": "Imp. des Artisans",
           "numeroRue": "14",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.74.90.43",
           "trajet": "",
           "ville": "FIRMINY"
@@ -809,7 +809,7 @@
           "nom": "Le Feugerolles",
           "nomRue": "LE CHAMBON FEUGEROLLES",
           "numeroRue": "42500",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 09.80.81.87.78",
           "trajet": "",
           "ville": ""
@@ -831,7 +831,7 @@
           "nom": "Sushiyama",
           "nomRue": "Av. Albert Raimond",
           "numeroRue": "138",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.79.79.88",
           "trajet": "",
           "ville": "ST-PRIEST-EN-JAREZ"
@@ -853,7 +853,7 @@
           "nom": "Au Coin Perdu",
           "nomRue": "La Tourbière",
           "numeroRue": "",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.72.26.54.66",
           "trajet": "11min",
           "ville": "MIRIBEL"
@@ -865,7 +865,7 @@
           "nom": "Epat & Moi",
           "nomRue": "Rte de Strasbourg",
           "numeroRue": "300",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.78.39.77.41",
           "trajet": "11min",
           "ville": "MIRIBEL"
@@ -877,7 +877,7 @@
           "nom": "Efrine Kebab",
           "nomRue": "Rte de Strasbourg",
           "numeroRue": "683",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.78.08.19.78",
           "trajet": "9min",
           "ville": "MIRIBEL"
@@ -897,7 +897,7 @@
           "nom": "Restaurant Shao",
           "nomRue": "rue du Commerce",
           "numeroRue": "3",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.78.51.52.52",
           "trajet": "9min",
           "ville": "GIVORS"
@@ -909,7 +909,7 @@
           "nom": "KOWASU (Resto Sushi \"Bof !\")",
           "nomRue": "rue Joseph Faure",
           "numeroRue": "18",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04 78 73 86 65",
           "trajet": "10min",
           "ville": "GIVORS"
@@ -929,7 +929,7 @@
           "nom": "La Vieille Ferme",
           "nomRue": "Les Vivats",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.71.61.47.33",
           "trajet": "5min",
           "ville": "BEAUZAC"
@@ -941,7 +941,7 @@
           "nom": "Les Bruyères",
           "nomRue": "Route de Bas en Basset",
           "numeroRue": "",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.71.66.36.87",
           "trajet": "13min",
           "ville": "MONISTROL-SUR-LOIRE"
@@ -953,7 +953,7 @@
           "nom": "Aux 2 Coqs",
           "nomRue": "Le pré du Milieu",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.71.66.72.15",
           "trajet": "12min",
           "ville": "BAS-EN-BASSET"
@@ -975,7 +975,7 @@
           "nom": "La Fougassette (Hotel/Restau)",
           "nomRue": "a Av. du Forez",
           "numeroRue": "1592",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.78.44.72.72",
           "trajet": "7min",
           "ville": "ST-SYMPHORIEN/COISE"
@@ -995,7 +995,7 @@
           "nom": "Le Fer à Cheval",
           "nomRue": "Rue du Forez",
           "numeroRue": "",
-          "ouverture": "lun. mar. mer. jeu. ven. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Dim.",
           "telephone": "Tel : 04.77.76.11.86",
           "trajet": "9-23min",
           "ville": "MAGNEUX-HAUTE-RIVE"
@@ -1007,7 +1007,7 @@
           "nom": "Restaurant TAKA",
           "nomRue": "Rte de la Gare",
           "numeroRue": "86",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.54.58.84",
           "trajet": "6-19min",
           "ville": "BOISSET LES MONTROND"
@@ -1029,7 +1029,7 @@
           "nom": "Le Chardon Bleu",
           "nomRue": "Place de l'Eglise",
           "numeroRue": "",
-          "ouverture": "mer. jeu. ven. sam. dim.",
+          "ouverture": "Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.71.03.58.47",
           "trajet": "9min",
           "ville": "CHASPINHAC"
@@ -1041,7 +1041,7 @@
           "nom": "La Galoche",
           "nomRue": "ZA la Gerle",
           "numeroRue": "",
-          "ouverture": "lun. mar. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.71.01.45.50",
           "trajet": "19min",
           "ville": "BEAULIEU"
@@ -1063,7 +1063,7 @@
           "nom": "La Vieille Auberge",
           "nomRue": "Rue de l'Eglise",
           "numeroRue": "",
-          "ouverture": "lun. mar. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.70.59.34.01",
           "trajet": "8min",
           "ville": "LE MAYET DE MONTAGNE"
@@ -1085,7 +1085,7 @@
           "nom": "La Fourchette",
           "nomRue": "Pl. de la République",
           "numeroRue": "3",
-          "ouverture": "mar. mer. jeu. ven. sam.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.74.63.02.83",
           "trajet": "30min",
           "ville": "TARARE"
@@ -1105,7 +1105,7 @@
           "nom": "Apprentis d'Auteuil",
           "nomRue": "Esplanade de Fourvière",
           "numeroRue": "2",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.28.69.01.50",
           "trajet": "1min",
           "ville": "LYON"
@@ -1117,7 +1117,7 @@
           "nom": "Campagne, Esprit Bistrot",
           "nomRue": "Rue du Cardinal Gerlier",
           "numeroRue": "20",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.78.36.73.85",
           "trajet": "5min",
           "ville": "LYON"
@@ -1129,7 +1129,7 @@
           "nom": "Maison Pignol",
           "nomRue": "Place Bellecour",
           "numeroRue": "8",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.78.37.39.61",
           "trajet": "1min",
           "ville": "LYON"
@@ -1149,7 +1149,7 @@
           "nom": "La Voie Himalaya*",
           "nomRue": "LYON",
           "numeroRue": "69003",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "",
           "trajet": "5min",
           "ville": ""
@@ -1161,7 +1161,7 @@
           "nom": "Part-Dieu, L'Esprit Bistrot*",
           "nomRue": "rue Garibaldi",
           "numeroRue": "198",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.78.60.87.83",
           "trajet": "5min",
           "ville": "LYON"
@@ -1173,7 +1173,7 @@
           "nom": "Soleil Levant",
           "nomRue": "rue Garibaldi",
           "numeroRue": "204",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.78.95.04.37",
           "trajet": "5min",
           "ville": "LYON"
@@ -1193,7 +1193,7 @@
           "nom": "Copains comme Cochons",
           "nomRue": "Place de l'Eglise",
           "numeroRue": "",
-          "ouverture": "lun. mar. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.20.45.90",
           "trajet": "22min",
           "ville": "LE BESSAT"
@@ -1205,7 +1205,7 @@
           "nom": "Auberge du Tremplin",
           "nomRue": "LE BESSAT",
           "numeroRue": "42660",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.93.68.94",
           "trajet": "24min",
           "ville": ""
@@ -1217,7 +1217,7 @@
           "nom": "Kebab Pilat",
           "nomRue": "PELUSSIN",
           "numeroRue": "42410",
-          "ouverture": "lun. mar. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 09.81.70.01.17",
           "trajet": "21min",
           "ville": ""
@@ -1239,7 +1239,7 @@
           "nom": "Là Haut de la Colline",
           "nomRue": "Rte du Mont-Cindre",
           "numeroRue": "81",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.78.47.25.17",
           "trajet": "",
           "ville": "ST-CYR-AU-MT-D'OR"
@@ -1259,7 +1259,7 @@
           "nom": "La Patte d'Oie",
           "nomRue": "Rte des Allemands",
           "numeroRue": "40",
-          "ouverture": "lun. mar. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 03.85.35.86.50",
           "trajet": "17min",
           "ville": "DAVAYÉ"
@@ -1271,7 +1271,7 @@
           "nom": "Le Dirose",
           "nomRue": "La Croix",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 03.85.35.71.49",
           "trajet": "11min",
           "ville": "SERRIÈRES"
@@ -1283,7 +1283,7 @@
           "nom": "TOYO SUSHI (Toyo 71)",
           "nomRue": "Rue Mathieu",
           "numeroRue": "7",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 03.85.20.79.75",
           "trajet": "26min",
           "ville": "MÂCON"
@@ -1312,7 +1312,7 @@
           "nom": "Le Rencard",
           "nomRue": "Bd. De la Sablière",
           "numeroRue": "13",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 09.50.92.17.20",
           "trajet": "8min",
           "ville": "BAS-EN-BASSET"
@@ -1324,7 +1324,7 @@
           "nom": "Les Bruyères",
           "nomRue": "Route de Bas en Basset",
           "numeroRue": "",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.71.66.36.87",
           "trajet": "14min",
           "ville": "MONISTROL-SUR-LOIRE"
@@ -1336,7 +1336,7 @@
           "nom": "Aux 2 Coqs",
           "nomRue": "Le pré du Milieu",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.71.66.72.15",
           "trajet": "10min",
           "ville": "BAS-EN-BASSET"
@@ -1348,7 +1348,7 @@
           "nom": "L'OXO",
           "nomRue": "avenue du Pont",
           "numeroRue": "116",
-          "ouverture": "lun. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.27.64.09.29",
           "trajet": "20min",
           "ville": "AUREC/LOIRE"
@@ -1379,7 +1379,7 @@
           "nom": "Le Pied dans l'Plat",
           "nomRue": "OYONNAX",
           "numeroRue": "01100",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 06.79.82.40.12",
           "trajet": "17min",
           "ville": ""
@@ -1399,7 +1399,7 @@
           "nom": "La Source de la Fontaine",
           "nomRue": "rue des Grands Fossés",
           "numeroRue": "1",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.71.59.90.20",
           "trajet": "7min",
           "ville": "MONTFAUCON EN VELAY"
@@ -1411,7 +1411,7 @@
           "nom": "? La Petite Auberge ?",
           "nomRue": "Le Bourg",
           "numeroRue": "",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.63.71.06.46",
           "trajet": "6min",
           "ville": "MONTREGARD"
@@ -1433,7 +1433,7 @@
           "nom": "Le P'tit Ju",
           "nomRue": "Route de Montilly",
           "numeroRue": "16",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.70.34.86.55",
           "trajet": "6min",
           "ville": "MOULINS"
@@ -1455,7 +1455,7 @@
           "nom": "Restaurant le Mornay*",
           "nomRue": "Rte du Berthiand",
           "numeroRue": "2090",
-          "ouverture": "ven. sam. dim.",
+          "ouverture": "Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.75.82.85",
           "trajet": "3min",
           "ville": "NURIEUX6VOLOGNAT"
@@ -1467,7 +1467,7 @@
           "nom": "Le Pied dans l'Plat",
           "nomRue": "OYONNAX",
           "numeroRue": "01100",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 06.79.82.40.12",
           "trajet": "19min",
           "ville": ""
@@ -1496,7 +1496,7 @@
           "nom": "Le Troquet",
           "nomRue": "Pl. de Flandre",
           "numeroRue": "2",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.64.62.81",
           "trajet": "4min",
           "ville": "NEULISE"
@@ -1518,7 +1518,7 @@
           "nom": "La Cascade du Moulin",
           "nomRue": "route de Genève",
           "numeroRue": "15",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.49.03.71",
           "trajet": "7min",
           "ville": "LE POIZAT-LALLEYRIAT"
@@ -1538,7 +1538,7 @@
           "nom": "Le Bidule (Wooden Leg)",
           "nomRue": "rue Claude Peurière",
           "numeroRue": "3",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.97.69.57",
           "trajet": "",
           "ville": "NOIRETABLE"
@@ -1560,7 +1560,7 @@
           "nom": "Fenet, L'Esprit Bistrot*",
           "nomRue": "Chem. de Montray",
           "numeroRue": "128",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.78.59.29.86",
           "trajet": "2min",
           "ville": "ST-FOY-LES-LYON"
@@ -1580,7 +1580,7 @@
           "nom": "Au Dragon d'Or",
           "nomRue": "All. des Fleurs",
           "numeroRue": "14",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.75.87.64",
           "trajet": "14min",
           "ville": "ARBENT"
@@ -1592,7 +1592,7 @@
           "nom": "Potala Wok",
           "nomRue": "Cr de Verdun",
           "numeroRue": "6",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.49.53.82",
           "trajet": "16min",
           "ville": "OYONNAX"
@@ -1604,7 +1604,7 @@
           "nom": "Le Pied dans l'Plat",
           "nomRue": "OYONNAX",
           "numeroRue": "01100",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 06.79.82.40.12",
           "trajet": "18min",
           "ville": ""
@@ -1624,7 +1624,7 @@
           "nom": "Le Pied dans l'Plat",
           "nomRue": "OYONNAX",
           "numeroRue": "01100",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 06.79.82.40.12",
           "trajet": "7min",
           "ville": ""
@@ -1636,7 +1636,7 @@
           "nom": "Au Dragon d'Or",
           "nomRue": "All. des Fleurs",
           "numeroRue": "14",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.75.87.64",
           "trajet": "5min",
           "ville": "ARBENT"
@@ -1648,7 +1648,7 @@
           "nom": "Potala Wok",
           "nomRue": "Cr de Verdun",
           "numeroRue": "6",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.49.53.82",
           "trajet": "6min",
           "ville": "OYONNAX"
@@ -1668,7 +1668,7 @@
           "nom": "Le Pied dans l'Plat",
           "nomRue": "OYONNAX",
           "numeroRue": "01100",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 06.79.82.40.12",
           "trajet": "9min",
           "ville": ""
@@ -1680,7 +1680,7 @@
           "nom": "Au Dragon d'Or",
           "nomRue": "All. des Fleurs",
           "numeroRue": "14",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.75.87.64",
           "trajet": "9min",
           "ville": "ARBENT"
@@ -1692,7 +1692,7 @@
           "nom": "Wasabi Sushi (à emporter)",
           "nomRue": "rue F. Ferrer",
           "numeroRue": "14",
-          "ouverture": "mar. mer. jeu. ven. sam.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.74.73.64.49",
           "trajet": "11min",
           "ville": "OYONNAX"
@@ -1712,7 +1712,7 @@
           "nom": "Auberge du Panoramique",
           "nomRue": "Ch. Des Crêtes",
           "numeroRue": "750",
-          "ouverture": "mer. jeu. ven. sam. dim.",
+          "ouverture": "Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 09.56.14.56.14",
           "trajet": "7min",
           "ville": "PLANFOY"
@@ -1724,7 +1724,7 @@
           "nom": "Le Marmiton du Pilat",
           "nomRue": "rue Georges Clémenceau",
           "numeroRue": "20",
-          "ouverture": "lun. mar. jeu. ven.",
+          "ouverture": "Lun., Mar., Jeu., Ven.",
           "telephone": "Tel : 04.77.51.40.27",
           "trajet": "6min",
           "ville": "PLANFOY"
@@ -1736,7 +1736,7 @@
           "nom": "O2 Thym",
           "nomRue": "Rue le Châtelier",
           "numeroRue": "2",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.77.57.94.85",
           "trajet": "15min",
           "ville": "ST-ETIENNE"
@@ -1748,7 +1748,7 @@
           "nom": "Tom Sawyer",
           "nomRue": "rue Gabriel Péri",
           "numeroRue": "8",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.69.68.45.75",
           "trajet": "15min",
           "ville": "ST-ETIENNE"
@@ -1760,7 +1760,7 @@
           "nom": "Sushiyama",
           "nomRue": "Av. Albert Raimond",
           "numeroRue": "138",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.79.79.88",
           "trajet": "19min",
           "ville": "ST-PRIEST-EN-JAREZ"
@@ -1782,7 +1782,7 @@
           "nom": "Auberge du Panoramique",
           "nomRue": "Ch. Des Crêtes",
           "numeroRue": "750",
-          "ouverture": "mer. jeu. ven. sam. dim.",
+          "ouverture": "Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 09.56.14.56.14",
           "trajet": "2min",
           "ville": "PLANFOY"
@@ -1794,7 +1794,7 @@
           "nom": "Le Marmiton du Pilat",
           "nomRue": "rue Georges Clémenceau",
           "numeroRue": "20",
-          "ouverture": "lun. mar. jeu. ven.",
+          "ouverture": "Lun., Mar., Jeu., Ven.",
           "telephone": "Tel : 04.77.51.40.27",
           "trajet": "8min",
           "ville": "PLANFOY"
@@ -1806,7 +1806,7 @@
           "nom": "O2 Thym",
           "nomRue": "Rue le Châtelier",
           "numeroRue": "2",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.77.57.94.85",
           "trajet": "11min",
           "ville": "ST-ETIENNE"
@@ -1818,7 +1818,7 @@
           "nom": "Tom Sawyer",
           "nomRue": "rue Gabriel Péri",
           "numeroRue": "8",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.69.68.45.75",
           "trajet": "11min",
           "ville": "ST-ETIENNE"
@@ -1830,7 +1830,7 @@
           "nom": "Sushiyama",
           "nomRue": "Av. Albert Raimond",
           "numeroRue": "138",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.79.79.88",
           "trajet": "19min",
           "ville": "ST-PRIEST-EN-JAREZ"
@@ -1852,7 +1852,7 @@
           "nom": "Les Terrasses de Pommiers*",
           "nomRue": "Mnt de Buisante",
           "numeroRue": "706",
-          "ouverture": "lun. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.65.05.27",
           "trajet": "1min",
           "ville": "POMMIERS"
@@ -1872,7 +1872,7 @@
           "nom": "La Fourchette",
           "nomRue": "Pl. de la République",
           "numeroRue": "3",
-          "ouverture": "mar. mer. jeu. ven. sam.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.74.63.02.83",
           "trajet": "",
           "ville": "TARARE"
@@ -1892,7 +1892,7 @@
           "nom": "L'Escale",
           "nomRue": "Rue de la Reilhade",
           "numeroRue": "",
-          "ouverture": "lun. mar. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.71.03.36.26",
           "trajet": "14min",
           "ville": "CHASPUZAC"
@@ -1936,7 +1936,7 @@
           "nom": "RAD'up",
           "nomRue": "Rue des Écoles",
           "numeroRue": "16",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.74.87.16.13",
           "trajet": "",
           "ville": "REVENTIN-VAUGRIS"
@@ -1956,7 +1956,7 @@
           "nom": "RAD'up",
           "nomRue": "Rue des Écoles",
           "numeroRue": "16",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.74.87.16.13",
           "trajet": "",
           "ville": "REVENTIN-VAUGRIS"
@@ -1994,7 +1994,7 @@
           "nom": "Le Nouveau Siècle",
           "nomRue": "Grande rue",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.65.80.35",
           "trajet": "",
           "ville": "ST-ANDRÉ-D'APCHON"
@@ -2016,7 +2016,7 @@
           "nom": "Auberge de Boisset",
           "nomRue": "Le Bourg",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.62.82.73",
           "trajet": "7min",
           "ville": "NOTRE6DAME-DE-BOISSET"
@@ -2028,7 +2028,7 @@
           "nom": "Le Nouveau Siècle",
           "nomRue": "Grande rue",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.65.80.35",
           "trajet": "23min",
           "ville": "ST-ANDRÉ-D'APCHON"
@@ -2050,7 +2050,7 @@
           "nom": "Le République",
           "nomRue": "rue de la République",
           "numeroRue": "12",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.90.59.47",
           "trajet": "4min",
           "ville": "ROCHE LA MOLIERE"
@@ -2062,7 +2062,7 @@
           "nom": "Sushiyama",
           "nomRue": "Av. Albert Raimond",
           "numeroRue": "138",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.79.79.88",
           "trajet": "16min",
           "ville": "ST-PRIEST-EN-JAREZ"
@@ -2093,7 +2093,7 @@
           "nom": "Café Restaurant de la Maire",
           "nomRue": "place Antoine Drivet",
           "numeroRue": "3",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.77.26.06.21",
           "trajet": "13min",
           "ville": "FEURS"
@@ -2127,7 +2127,7 @@
           "nom": "La Méthanerie",
           "nomRue": "Route de la Combe",
           "numeroRue": "607",
-          "ouverture": "lun. mar. mer. jeu. ven. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Dim.",
           "telephone": "Tel : 09.53.93.07.18",
           "trajet": "9min",
           "ville": "ST-CHRISTO-EN-JAREZ"
@@ -2149,7 +2149,7 @@
           "nom": "La Fougassette (Hotel/Restau)",
           "nomRue": "a Av. du Forez",
           "numeroRue": "1592",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.78.44.72.72",
           "trajet": "7min",
           "ville": "ST-SYMPHORIEN/COISE"
@@ -2169,7 +2169,7 @@
           "nom": "Les Bruyères",
           "nomRue": "Route de Bas en Basset",
           "numeroRue": "",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.71.66.36.87",
           "trajet": "19min",
           "ville": "MONISTROL-SUR-LOIRE"
@@ -2181,7 +2181,7 @@
           "nom": "Aux 2 Coqs",
           "nomRue": "Le pré du Milieu",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.71.66.72.15",
           "trajet": "28min",
           "ville": "BAS-EN-BASSET"
@@ -2193,7 +2193,7 @@
           "nom": "Le Rencard",
           "nomRue": "Bd. De la Sablière",
           "numeroRue": "13",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 09.50.92.17.20",
           "trajet": "26min",
           "ville": "BAS-EN-BASSET"
@@ -2215,7 +2215,7 @@
           "nom": "La Table de Magalie*",
           "nomRue": "-8, N89",
           "numeroRue": "2",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.72.54.40.63",
           "trajet": "",
           "ville": "STE-FOY-L'ARGENTIERE"
@@ -2235,7 +2235,7 @@
           "nom": "Les Bruyères",
           "nomRue": "Route de Bas en Basset",
           "numeroRue": "",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.71.66.36.87",
           "trajet": "11min",
           "ville": "MONISTROL-SUR-LOIRE"
@@ -2247,7 +2247,7 @@
           "nom": "Aux 2 Coqs",
           "nomRue": "Le pré du Milieu",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.71.66.72.15",
           "trajet": "19min",
           "ville": "BAS-EN-BASSET"
@@ -2259,7 +2259,7 @@
           "nom": "Le Rencard",
           "nomRue": "Bd. De la Sablière",
           "numeroRue": "13",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 09.50.92.17.20",
           "trajet": "18min",
           "ville": "BAS-EN-BASSET"
@@ -2281,7 +2281,7 @@
           "nom": "O Dragon",
           "nomRue": "rue Marc Charras",
           "numeroRue": "13",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.38.68.88",
           "trajet": "5min",
           "ville": "ST-ETIENNE"
@@ -2293,7 +2293,7 @@
           "nom": "O2 Thym",
           "nomRue": "Rue le Châtelier",
           "numeroRue": "2",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.77.57.94.85",
           "trajet": "13min",
           "ville": "ST-ETIENNE"
@@ -2305,7 +2305,7 @@
           "nom": "Sushiyama",
           "nomRue": "Av. Albert Raimond",
           "numeroRue": "138",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.79.79.88",
           "trajet": "9min",
           "ville": "ST-PRIEST-EN-JAREZ"
@@ -2327,7 +2327,7 @@
           "nom": "O2 Thym",
           "nomRue": "Rue le Châtelier",
           "numeroRue": "2",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.77.57.94.85",
           "trajet": "8min",
           "ville": "ST-ETIENNE"
@@ -2339,7 +2339,7 @@
           "nom": "Sushiyama",
           "nomRue": "Av. Albert Raimond",
           "numeroRue": "138",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.79.79.88",
           "trajet": "12min",
           "ville": "ST-PRIEST-EN-JAREZ"
@@ -2351,7 +2351,7 @@
           "nom": "Tom Sawyer",
           "nomRue": "rue Gabriel Péri",
           "numeroRue": "8",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.69.68.45.75",
           "trajet": "8min",
           "ville": "ST-ETIENNE"
@@ -2373,7 +2373,7 @@
           "nom": "Les Ramparts de Saint-Rambert",
           "nomRue": "A Rue de la Loire",
           "numeroRue": "2",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.79.90.37",
           "trajet": "18min",
           "ville": "ST-JUST-ST-RAMBERT"
@@ -2395,7 +2395,7 @@
           "nom": "Auberge du Panoramique",
           "nomRue": "Ch. Des Crêtes",
           "numeroRue": "750",
-          "ouverture": "mer. jeu. ven. sam. dim.",
+          "ouverture": "Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 09.56.14.56.14",
           "trajet": "2min",
           "ville": "PLANFOY"
@@ -2407,7 +2407,7 @@
           "nom": "Le Marmiton du Pilat",
           "nomRue": "rue Georges Clémenceau",
           "numeroRue": "20",
-          "ouverture": "lun. mar. jeu. ven.",
+          "ouverture": "Lun., Mar., Jeu., Ven.",
           "telephone": "Tel : 04.77.51.40.27",
           "trajet": "8min",
           "ville": "PLANFOY"
@@ -2419,7 +2419,7 @@
           "nom": "O2 Thym",
           "nomRue": "Rue le Châtelier",
           "numeroRue": "2",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.77.57.94.85",
           "trajet": "11min",
           "ville": "ST-ETIENNE"
@@ -2431,7 +2431,7 @@
           "nom": "Tom Sawyer",
           "nomRue": "rue Gabriel Péri",
           "numeroRue": "8",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.69.68.45.75",
           "trajet": "11min",
           "ville": "ST-ETIENNE"
@@ -2443,7 +2443,7 @@
           "nom": "Sushiyama",
           "nomRue": "Av. Albert Raimond",
           "numeroRue": "138",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.79.79.88",
           "trajet": "19min",
           "ville": "ST-PRIEST-EN-JAREZ"
@@ -2465,7 +2465,7 @@
           "nom": "La Fourchette",
           "nomRue": "Pl. de la République",
           "numeroRue": "3",
-          "ouverture": "mer. jeu. ven. sam.",
+          "ouverture": "Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.74.63.02.83",
           "trajet": "",
           "ville": "TARARE"
@@ -2497,7 +2497,7 @@
           "nom": "Le P'ti Joly",
           "nomRue": "rue des Cordeliers",
           "numeroRue": "10",
-          "ouverture": "lun. mar. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.24.88.90",
           "trajet": "10min",
           "ville": "Montbrison"
@@ -2528,7 +2528,7 @@
           "nom": "Auberge Les Gentianes",
           "nomRue": "LE POIZAT-LALLEYRIAT",
           "numeroRue": "01130",
-          "ouverture": "lun. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 09.80.50.36.11",
           "trajet": "2min",
           "ville": ""
@@ -2540,7 +2540,7 @@
           "nom": "La Cascade du Moulin",
           "nomRue": "route de Genève",
           "numeroRue": "15",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.49.03.71",
           "trajet": "7min",
           "ville": "LE POIZAT-LALLEYRIAT"
@@ -2552,7 +2552,7 @@
           "nom": "Auberge du Lac Genin*",
           "nomRue": "--- Fermetue annuelle : ---",
           "numeroRue": "",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "",
           "trajet": "17min",
           "ville": ""
@@ -2592,7 +2592,7 @@
           "nom": "~ NON TESTÉ ~",
           "nomRue": "Place de Rochetaillée",
           "numeroRue": "",
-          "ouverture": "lun. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.65.02.42",
           "trajet": "16min",
           "ville": "ST-JUST-EN-CHEVALET"
@@ -2604,7 +2604,7 @@
           "nom": "Mc Donalds",
           "nomRue": "(Accès par la D53)",
           "numeroRue": "",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.24.78.89",
           "trajet": "12min",
           "ville": "LES SALLES"
@@ -2626,7 +2626,7 @@
           "nom": "Tokyo",
           "nomRue": "Bâtiment D",
           "numeroRue": "",
-          "ouverture": "mer. jeu. ven. sam. dim.",
+          "ouverture": "Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.87.66.78.62",
           "trajet": "10min",
           "ville": "St-Just-St-Rambert"
@@ -2638,7 +2638,7 @@
           "nom": "Amie Sushi",
           "nomRue": "Impasse St-Exupéry",
           "numeroRue": "36",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.36.49.14",
           "trajet": "13min",
           "ville": "LA FOUILLOUSE"
@@ -2650,7 +2650,7 @@
           "nom": "Les Ramparts de Saint-Rambert",
           "nomRue": "A Rue de la Loire",
           "numeroRue": "2",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.79.90.37",
           "trajet": "3min",
           "ville": "ST-JUST-ST-RAMBERT"
@@ -2672,7 +2672,7 @@
           "nom": "Les Trois Ours",
           "nomRue": "D385",
           "numeroRue": "",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.27.49.92.52",
           "trajet": "6min",
           "ville": "LAMURE-SUR-AZERGUES"
@@ -2684,7 +2684,7 @@
           "nom": "La Cuisine d’Alex",
           "nomRue": "CHAMBOST-ALLIÈRES",
           "numeroRue": "69870",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "",
           "trajet": "12min",
           "ville": ""
@@ -2696,7 +2696,7 @@
           "nom": "Le Cep Vert",
           "nomRue": "La Gabaudière",
           "numeroRue": "1",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 09.54.12.50.59",
           "trajet": "17min",
           "ville": "LÉTRA"
@@ -2716,7 +2716,7 @@
           "nom": "La Nappe à Carreaux",
           "nomRue": "RD 386",
           "numeroRue": "1185",
-          "ouverture": "mer. jeu. ven. sam. dim.",
+          "ouverture": "Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.31.68.23",
           "trajet": "10min",
           "ville": "ST-ROMAIN-EN-GAL"
@@ -2736,7 +2736,7 @@
           "nom": "Le Cav'O",
           "nomRue": "place G.A. Simonet",
           "numeroRue": "7",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.74.05.64.26",
           "trajet": "",
           "ville": "Tarare"
@@ -2748,7 +2748,7 @@
           "nom": "La Fourchette",
           "nomRue": "Pl. de la République",
           "numeroRue": "3",
-          "ouverture": "mar. mer. jeu. ven. sam.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.74.63.02.83",
           "trajet": "",
           "ville": "TARARE"
@@ -2780,7 +2780,7 @@
           "nom": "Le Cav'O",
           "nomRue": "place G.A. Simonet",
           "numeroRue": "7",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.74.05.64.26",
           "trajet": "7min",
           "ville": "Tarare"
@@ -2792,7 +2792,7 @@
           "nom": "La Fourchette",
           "nomRue": "Pl. de la République",
           "numeroRue": "3",
-          "ouverture": "mar. mer. jeu. ven. sam.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.74.63.02.83",
           "trajet": "",
           "ville": "TARARE"
@@ -2824,7 +2824,7 @@
           "nom": "La Filature",
           "nomRue": "rue d'amplepuis",
           "numeroRue": "16",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 06.44.97.78.59",
           "trajet": "",
           "ville": "ST-VINCENT-DE-REINS"
@@ -2844,7 +2844,7 @@
           "nom": "Au Coin Perdu",
           "nomRue": "La Tourbière",
           "numeroRue": "",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.72.26.54.66",
           "trajet": "2min",
           "ville": "MIRIBEL"
@@ -2856,7 +2856,7 @@
           "nom": "Epat & Moi",
           "nomRue": "Rte de Strasbourg",
           "numeroRue": "300",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.78.39.77.41",
           "trajet": "4min",
           "ville": "MIRIBEL"
@@ -2868,7 +2868,7 @@
           "nom": "Efrine Kebab",
           "nomRue": "Rte de Strasbourg",
           "numeroRue": "683",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.78.08.19.78",
           "trajet": "4min",
           "ville": "MIRIBEL"
@@ -2888,7 +2888,7 @@
           "nom": "Ninkasi Vaise*",
           "nomRue": "rue de la Navigation",
           "numeroRue": "8",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.69.84.20.81",
           "trajet": "5min",
           "ville": "Lyon"
@@ -2900,7 +2900,7 @@
           "nom": "Au Bureau Lyon Vaise*",
           "nomRue": "rue de la Navigation",
           "numeroRue": "10",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.78.33.30.83",
           "trajet": "5min",
           "ville": "LYON"
@@ -2912,7 +2912,7 @@
           "nom": "Nano Trattoria Lyon IX",
           "nomRue": "rue de la Navigation",
           "numeroRue": "16",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.01.75.67",
           "trajet": "5min",
           "ville": "LYON"
@@ -2932,7 +2932,7 @@
           "nom": "Tokyo",
           "nomRue": "Bâtiment D",
           "numeroRue": "",
-          "ouverture": "mer. jeu. ven. sam. dim.",
+          "ouverture": "Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.87.66.78.62",
           "trajet": "15min",
           "ville": "St-Just-St-Rambert"
@@ -2954,7 +2954,7 @@
           "nom": "Mc Donald Vienne",
           "nomRue": "Quai Pasteur",
           "numeroRue": "30",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.85.50.60",
           "trajet": "",
           "ville": "VIENNE"
@@ -2974,7 +2974,7 @@
           "nom": "Mc Donald Vienne",
           "nomRue": "Quai Pasteur",
           "numeroRue": "30",
-          "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.74.85.50.60",
           "trajet": "",
           "ville": "VIENNE"
@@ -2994,7 +2994,7 @@
           "nom": "Sushiyama",
           "nomRue": "Av. Albert Raimond",
           "numeroRue": "138",
-          "ouverture": "lun. mar. mer. jeu. ven. sam.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.77.79.79.88",
           "trajet": "",
           "ville": "ST-PRIEST-EN-JAREZ"
@@ -3016,7 +3016,7 @@
           "nom": "Auberge du Suran",
           "nomRue": "Route de Bourg",
           "numeroRue": "453",
-          "ouverture": "lun. mar. jeu. ven. dim.",
+          "ouverture": "Lun., Mar., Jeu., Ven., Dim.",
           "telephone": "Tel : 04.74.45.39.06",
           "trajet": "",
           "ville": "BOHAS"
@@ -3056,7 +3056,7 @@
           "nom": "La Fourchette",
           "nomRue": "Pl. de la République",
           "numeroRue": "3",
-          "ouverture": "mar. mer. jeu. ven. sam.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam.",
           "telephone": "Tel : 04.74.63.02.83",
           "trajet": "17min",
           "ville": "TARARE"
@@ -3078,7 +3078,7 @@
           "nom": "Le Bidule (Wooden Leg)",
           "nomRue": "rue Claude Peurière",
           "numeroRue": "3",
-          "ouverture": "mar. mer. jeu. ven. sam. dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.77.97.69.57",
           "trajet": "",
           "ville": "NOIRETABLE"
@@ -3100,7 +3100,7 @@
           "nom": "Le P'tit Ju",
           "nomRue": "Route de Montilly",
           "numeroRue": "16",
-          "ouverture": "lun. mar. mer. jeu. ven.",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven.",
           "telephone": "Tel : 04.70.34.86.55",
           "trajet": "9min",
           "ville": "MOULINS"
