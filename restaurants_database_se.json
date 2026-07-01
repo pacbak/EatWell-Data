@@ -1,15 +1,6 @@
 {
-  "db_version": "26.0701.2334",
+  "db_version": "26.0701.2337",
   "zone": [
-    {
-      "cde post.": "01500",
-      "ig": "0100401",
-      "restaurants": [],
-      "site": "Bettant:Ambérieu",
-      "zones": [
-        "SE"
-      ]
-    },
     {
       "cde post.": "",
       "ig": "TEST001",
