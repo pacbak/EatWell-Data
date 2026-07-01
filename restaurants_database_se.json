@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0701.2330",
+  "db_version": "26.0701.2331",
   "zone": [
     {
       "cde post.": "",
@@ -437,13 +437,6 @@
         }
       ],
       "site": "Bessenay",
-      "zones": []
-    },
-    {
-      "cde post.": "01500",
-      "ig": "0100401",
-      "restaurants": [],
-      "site": "Bettant:Ambérieu",
       "zones": []
     },
     {
