@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0701.2329",
+  "db_version": "26.0701.2330",
   "zone": [
     {
       "cde post.": "",
@@ -98,12 +98,12 @@
       "ig": "6900601",
       "restaurants": [
         {
-          "adresse": "Bar du Rond-Point\n4 rue Daniel Fargeot\n69550 AMPLEPUIS",
+          "adresse": "Bar du Rond-Point\n14 rue Daniel Fargeot\n69550 AMPLEPUIS",
           "codePostal": "69550",
           "lieuDit": "",
           "nom": "Bar du Rond-Point",
           "nomRue": "rue Daniel Fargeot",
-          "numeroRue": "4",
+          "numeroRue": "14",
           "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.26.81.28.28",
           "trajet": "",
