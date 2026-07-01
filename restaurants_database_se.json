@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0629.2217",
+  "db_version": "26.0701.2329",
   "zone": [
     {
       "cde post.": "",
@@ -104,7 +104,7 @@
           "nom": "Bar du Rond-Point",
           "nomRue": "rue Daniel Fargeot",
           "numeroRue": "4",
-          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
           "telephone": "Tel : 04.26.81.28.28",
           "trajet": "",
           "ville": "AMPLEPUIS"
