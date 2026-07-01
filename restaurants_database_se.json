@@ -64,6 +64,18 @@
       "ig": "4300301",
       "restaurants": [
         {
+          "adresse": "L'Escale\n100 Rue de la Reilhade\n43320 CHASPUZAC",
+          "codePostal": "43320",
+          "lieuDit": "",
+          "nom": "L'Escale",
+          "nomRue": "Rue de la Reilhade",
+          "numeroRue": "100",
+          "ouverture": "Lun., Mar., Jeu., Ven., Sam., Dim.",
+          "telephone": "Tel : 04.71.03.36.26",
+          "trajet": "17min",
+          "ville": "CHASPUZAC"
+        },
+        {
           "adresse": "Les Ateliers du Mont Bar\nRestaurant - Hôtel\n7 rue du Franges\n43270 ALLEGRE",
           "codePostal": "43270",
           "lieuDit": "Restaurant - Hôtel",
@@ -74,18 +86,6 @@
           "telephone": "Tel : 09.56.36.54.06",
           "trajet": "4min",
           "ville": "ALLEGRE"
-        },
-        {
-          "adresse": "L'Escale\nRue de la Reilhade\n43320 CHASPUZAC",
-          "codePostal": "43320",
-          "lieuDit": "",
-          "nom": "L'Escale",
-          "nomRue": "Rue de la Reilhade",
-          "numeroRue": "",
-          "ouverture": "Lun., Mar., Jeu., Ven., Sam., Dim.",
-          "telephone": "Tel : 04.71.03.36.26",
-          "trajet": "17min",
-          "ville": "CHASPUZAC"
         }
       ],
       "site": "Allegre:Chateauneuf",
