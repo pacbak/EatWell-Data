@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0702.2358",
+  "db_version": "26.0703.0020",
   "zone": [
     {
       "cde post.": "43270",
@@ -2701,29 +2701,6 @@
       "site": "Ste-Sigolene 2",
       "zones": [
         "AUV"
-      ]
-    },
-    {
-      "cde post.": "12300",
-      "ig": "1234567",
-      "restaurants": [
-        {
-          "adresse": "Chez Moi\nLà-bas\n69 Rue Tête Bêche 🪏\n42000 PARIS",
-          "codePostal": "42000",
-          "lieuDit": "Là-bas",
-          "nom": "Chez Moi",
-          "nomRue": "Rue Tête Bêche 🪏",
-          "numeroRue": "69",
-          "ouverture": "Lun., Mar., Jeu., Sam., Dim.",
-          "telephone": "Tel : 01.23.45.67.89",
-          "trajet": "0",
-          "ville": "PARIS"
-        }
-      ],
-      "site": "TEST AAA",
-      "zones": [
-        "AUV",
-        "SE"
       ]
     },
     {
