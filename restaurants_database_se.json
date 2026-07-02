@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0702.1307",
+  "db_version": "26.0702.1313",
   "zone": [
     {
       "cde post.": "07660",
@@ -63,6 +63,18 @@
       "cde post.": "42170",
       "ig": "4217011",
       "restaurants": [
+        {
+          "adresse": "Test D'ajout\n Rue Flfkfflfl\n42000 LOLO",
+          "codePostal": "42000",
+          "lieuDit": "",
+          "nom": "Test D'ajout",
+          "nomRue": "Rue Flfkfflfl",
+          "numeroRue": "",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam.",
+          "telephone": "Tel : 01.23.45.67.89",
+          "trajet": "2",
+          "ville": "LOLO"
+        },
         {
           "adresse": "Chez Zouzou\n2 Ch. De La Tulipe 🌷\n42000 LYON",
           "codePostal": "42000",
