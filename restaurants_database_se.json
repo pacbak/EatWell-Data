@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0702.2300",
+  "db_version": "26.0702.2301",
   "zone": [
     {
       "cde post.": "07660",
@@ -27,20 +27,7 @@
     {
       "cde post.": "",
       "ig": "TEST001",
-      "restaurants": [
-        {
-          "adresse": "Chez Ginette\n1 Rue D'ici-là\n42000 LYON",
-          "codePostal": "42000",
-          "lieuDit": "",
-          "nom": "Chez Ginette",
-          "nomRue": "Rue D'ici-là",
-          "numeroRue": "1",
-          "ouverture": "Lun., Mar., Mer., Jeu.",
-          "telephone": "Tel : 04.77.88.99.00",
-          "trajet": "15",
-          "ville": "LYON"
-        }
-      ],
+      "restaurants": [],
       "site": "TEST",
       "zones": [
         "AUV",
