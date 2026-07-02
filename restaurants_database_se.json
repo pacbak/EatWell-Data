@@ -1,6 +1,29 @@
 {
-  "db_version": "26.0701.2338",
+  "db_version": "26.0702.1303",
   "zone": [
+    {
+      "cde post.": "07660",
+      "ig": "0723203",
+      "restaurants": [
+        {
+          "adresse": "La Charette des Saveurs\nLa Chavade\n Rue \n07660 LANARCR",
+          "codePostal": "07660",
+          "lieuDit": "La Chavade",
+          "nom": "La Charette des Saveurs",
+          "nomRue": "Rue ",
+          "numeroRue": "",
+          "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
+          "telephone": "Tel : 04.75.88.06.19",
+          "trajet": "8",
+          "ville": "LANARCR"
+        }
+      ],
+      "site": "ITA_StEtienneLugdar 1",
+      "zones": [
+        "AUV",
+        "SE"
+      ]
+    },
     {
       "cde post.": "",
       "ig": "TEST001",
