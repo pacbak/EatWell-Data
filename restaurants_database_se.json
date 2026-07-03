@@ -1,6 +1,16 @@
 {
-  "db_version": "26.0703.1904",
+  "db_version": "26.0703.1941",
   "zone": [
+    {
+      "cde post.": "12345",
+      "ig": "1111111",
+      "restaurants": [],
+      "site": "Test 2",
+      "zones": [
+        "AUV",
+        "SE"
+      ]
+    },
     {
       "cde post.": "43270",
       "ig": "4300301",
