@@ -1,29 +1,6 @@
 {
-  "db_version": "26.0703.1902",
+  "db_version": "26.0703.1904",
   "zone": [
-    {
-      "cde post.": "58885",
-      "ig": "1234566",
-      "restaurants": [
-        {
-          "adresse": "L'Escale\n Rue de la Reilhade\n43320 CHASPUZAC",
-          "codePostal": "43320",
-          "lieuDit": "",
-          "nom": "L'Escale",
-          "nomRue": "Rue de la Reilhade",
-          "numeroRue": "",
-          "ouverture": "Lun., Mar., Jeu., Ven., Sam., Dim.",
-          "telephone": "Tel : 04.71.03.36.26",
-          "trajet": "",
-          "ville": "CHASPUZAC"
-        }
-      ],
-      "site": "TEST AAAAA",
-      "zones": [
-        "AUV",
-        "SE"
-      ]
-    },
     {
       "cde post.": "43270",
       "ig": "4300301",
