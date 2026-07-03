@@ -1,21 +1,21 @@
 {
-  "db_version": "26.0703.1941",
+  "db_version": "26.0703.2227",
   "zone": [
     {
-      "cde post.": "12345",
-      "ig": "1111111",
+      "cde post.": "22222",
+      "ig": "2222222",
       "restaurants": [
         {
-          "adresse": "Chez toi\n Rue Nulle part\n00000 LONDRES",
-          "codePostal": "00000",
+          "adresse": "Zzzzzz\n Rue Zzzzz\n22222 EEEEEEE",
+          "codePostal": "22222",
           "lieuDit": "",
-          "nom": "Chez toi",
-          "nomRue": "Rue Nulle part",
+          "nom": "Zzzzzz",
+          "nomRue": "Rue Zzzzz",
           "numeroRue": "",
-          "ouverture": "Lun. Mar. Jeu. Ven. Dim.",
-          "telephone": "Tel : 11.22.33.44.55",
-          "trajet": "2026",
-          "ville": "LONDRES"
+          "ouverture": "Lun., Mer., Jeu., Sam.",
+          "telephone": "",
+          "trajet": "",
+          "ville": "EEEEEEE"
         }
       ],
       "site": "Test 2",
