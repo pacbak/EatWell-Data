@@ -1,0 +1,21 @@
+{
+  "androidId": "45a8afa59778bb27",
+  "dataRestaurant": {
+    "adresse": "Aaaaa\n Rue Aaaaa\n11111 AAAAAAA",
+    "codePostal": "11111",
+    "lieuDit": "",
+    "nom": "Aaaaa",
+    "nomRue": "Rue Aaaaa",
+    "numeroRue": "",
+    "ouverture": "Lun., Mar., Mer., Jeu., Ven., Sam., Dim.",
+    "telephone": "",
+    "trajet": "",
+    "ville": "AAAAAAA"
+  },
+  "id": "Pac_1783110360542",
+  "siteName": "Test 1",
+  "timestamp": 1783110360548,
+  "type": "RESTAURANT",
+  "userName": "Pac",
+  "zoneIg": "1111111"
+}
