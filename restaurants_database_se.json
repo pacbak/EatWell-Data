@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0703.2246",
+  "db_version": "26.0703.2326",
   "zone": [
     {
       "cde post.": "43270",
@@ -2790,6 +2790,29 @@
       ],
       "site": "Tarare- Le Janin",
       "zones": []
+    },
+    {
+      "cde post.": "55555",
+      "ig": "FKFKFKF",
+      "restaurants": [
+        {
+          "adresse": "Dkfkfkfkfk\n Rue X'fkf'xxkx\n59595 DBDBDBFB",
+          "codePostal": "59595",
+          "lieuDit": "",
+          "nom": "Dkfkfkfkfk",
+          "nomRue": "Rue X'fkf'xxkx",
+          "numeroRue": "",
+          "ouverture": "Lun., Mar., Mer., Jeu., Sam., Dim.",
+          "telephone": "",
+          "trajet": "",
+          "ville": "DBDBDBFB"
+        }
+      ],
+      "site": "Test 3",
+      "zones": [
+        "AUV",
+        "SE"
+      ]
     },
     {
       "cde post.": "69240",
