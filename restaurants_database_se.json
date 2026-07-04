@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0703.2329",
+  "db_version": "26.0704.0827",
   "zone": [
     {
       "cde post.": "43270",
@@ -2186,6 +2186,18 @@
       "cde post.": "42000",
       "ig": "4221801",
       "restaurants": [
+        {
+          "adresse": "Amie Sushi\n36 Impasse St-Exupéry\n42480 LA FOUILLOUSE",
+          "codePostal": "42480",
+          "lieuDit": "",
+          "nom": "Amie Sushi",
+          "nomRue": "Impasse St-Exupéry",
+          "numeroRue": "36",
+          "ouverture": "Mar., Mer., Jeu., Ven., Sam., Dim.",
+          "telephone": "Tel : 04.77.36.49.14",
+          "trajet": "",
+          "ville": "LA FOUILLOUSE"
+        },
         {
           "adresse": "O2 Thym\n2 Rue le Châtelier\n42100 ST-ETIENNE",
           "codePostal": "42100",
