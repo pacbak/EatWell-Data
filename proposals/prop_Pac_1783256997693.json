@@ -1,0 +1,28 @@
+{
+  "androidId": "45a8afa59778bb27",
+  "dataZone": {
+    "ig": "3333333",
+    "restaurants": [
+      {
+        "adresse": "Avenue du Miam",
+        "codePostal": "69000",
+        "nom": "Oh Bon Repas",
+        "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+        "telephone": "Tel : 04.56.12.37.89",
+        "trajet": "0",
+        "ville": "ST-JUST-ST-RAMBERT"
+      }
+    ],
+    "site": "Test03",
+    "zones": [
+      "AUV",
+      "SE"
+    ]
+  },
+  "id": "Pac_1783256997692",
+  "siteName": "Test03",
+  "timestamp": 1783256997693,
+  "type": "SITE",
+  "userName": "Pac",
+  "zoneIg": "3333333"
+}
