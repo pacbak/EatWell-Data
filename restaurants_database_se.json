@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0705.1530",
+  "db_version": "26.0705.1755",
   "zone": [
     {
       "ig": "4300301",
@@ -2065,18 +2065,6 @@
           "trajet": ""
         }
       ]
-    },
-    {
-      "ig": "2222222",
-      "site": "Test 2",
-      "zones": ["AUV", "SE"],
-      "restaurants": []
-    },
-    {
-      "ig": "3333333",
-      "site": "Test 3",
-      "zones": ["AUV", "SE"],
-      "restaurants": []
     },
     {
       "ig": "6924801",
