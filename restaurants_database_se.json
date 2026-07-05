@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0705.1301",
+  "db_version": "26.0705.1347",
   "zone": [
     {
       "ig": "4300301",
@@ -80,11 +80,11 @@
       "zones": [],
       "restaurants": [
         {
-          "nom": "Café Gourmand*",
+          "nom": "Café Gourmand",
           "adresse": "6 Place de l'Eglise",
           "codePostal": "69210",
           "ville": "BULLY",
-          "telephone": "Tel : 04.78.c21.19.09",
+          "telephone": "Tel : 04.78.21.19.09",
           "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
           "trajet": "23min"
         }
@@ -144,6 +144,22 @@
           "telephone": "Tel : 04.27.77.40.69",
           "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
           "trajet": "10min"
+        }
+      ]
+    },
+    {
+      "ig": "9999999",
+      "site": "BRAVO !!",
+      "zones": [],
+      "restaurants": [
+        {
+          "nom": "Tu as trouvé la carte secrète !",
+          "adresse": "Oseras-tu appuyer sur le bouton \"Appeler\" ?\nT'inquiète... Le téléphone ne va pas t'exploser dans les mains.",
+          "codePostal": "",
+          "ville": "EATWELL",
+          "telephone": "*#0*#",
+          "ouverture": "Dans les entrailles du Smartphone...",
+          "trajet": "666"
         }
       ]
     },
@@ -214,7 +230,7 @@
           "trajet": "6min"
         },
         {
-          "nom": "Auberge du Pont des Samsons*",
+          "nom": "Auberge du Pont des Samsons",
           "adresse": "85 Rte de Saint-Vincent",
           "codePostal": "69430",
           "ville": "QUINCE-EN-BEAUJOLAIS",
@@ -297,22 +313,6 @@
       "restaurants": []
     },
     {
-      "ig": "4201901",
-      "site": "Boën",
-      "zones": ["AUV"],
-      "restaurants": [
-        {
-          "nom": "Le Cas d'Al du Lignon (Kebab)",
-          "adresse": "43 Rue de Lyon",
-          "codePostal": "42130",
-          "ville": "BOËN-SUR-LIGNON",
-          "telephone": "Tel : 04.77.24.19.88",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": ""
-        }
-      ]
-    },
-    {
       "ig": "4202801",
       "site": "Bourg-Argental 1",
       "zones": ["AUV"],
@@ -345,18 +345,18 @@
       ]
     },
     {
-      "ig": "6300801",
-      "site": "Chabreloche:Arconsat",
+      "ig": "4201901",
+      "site": "Boën",
       "zones": ["AUV"],
       "restaurants": [
         {
-          "nom": "Auberge le 1013 - Chez Virginie",
-          "adresse": "12 rue de Clermont",
-          "codePostal": "63250",
-          "ville": "CHABRELOCHE",
-          "telephone": "Tel : 06.63.65.29.34",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": "5min"
+          "nom": "Le Cas d'Al du Lignon (Kebab)",
+          "adresse": "43 Rue de Lyon",
+          "codePostal": "42130",
+          "ville": "BOËN-SUR-LIGNON",
+          "telephone": "Tel : 04.77.24.19.88",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": ""
         }
       ]
     },
@@ -382,6 +382,38 @@
           "telephone": "Tel : 04.77.54.58.84",
           "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
           "trajet": "9min"
+        }
+      ]
+    },
+    {
+      "ig": "6300801",
+      "site": "Chabreloche:Arconsat",
+      "zones": ["AUV"],
+      "restaurants": [
+        {
+          "nom": "Auberge le 1013 - Chez Virginie",
+          "adresse": "12 rue de Clermont",
+          "codePostal": "63250",
+          "ville": "CHABRELOCHE",
+          "telephone": "Tel : 06.63.65.29.34",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "5min"
+        }
+      ]
+    },
+    {
+      "ig": "4204401",
+      "site": "Chambon-Feugerolles 1",
+      "zones": ["AUV"],
+      "restaurants": [
+        {
+          "nom": "Le Feugerolles",
+          "adresse": "Le Feugerolles\n22 Rue de la République\n42500 LE CHAMBON FEUGEROLLES\nTel : 07.66.87.76.02",
+          "codePostal": "",
+          "ville": "",
+          "telephone": "Tel : 09.80.81.87.78",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
+          "trajet": "4min"
         }
       ]
     },
@@ -414,22 +446,6 @@
           "telephone": "Tel : 04.71.59.70.05",
           "ouverture": "",
           "trajet": "7min"
-        }
-      ]
-    },
-    {
-      "ig": "4204401",
-      "site": "Chambon-Feugerolles 1",
-      "zones": ["AUV"],
-      "restaurants": [
-        {
-          "nom": "Le Feugerolles",
-          "adresse": "Le Feugerolles\n22 Rue de la République\n42500 LE CHAMBON FEUGEROLLES\nTel : 07.66.87.76.02",
-          "codePostal": "",
-          "ville": "",
-          "telephone": "Tel : 09.80.81.87.78",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
-          "trajet": "4min"
         }
       ]
     },
@@ -821,21 +837,21 @@
       "zones": [],
       "restaurants": [
         {
-          "nom": "La Voie Himalaya*",
-          "adresse": "La Voie Himalaya*\n200 rue Garibaldi\n69003 LYON\nRésa : lavoiehimalaya.fr",
-          "codePostal": "",
-          "ville": "",
-          "telephone": "",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam.",
-          "trajet": "5min"
-        },
-        {
-          "nom": "Part-Dieu, L'Esprit Bistrot*",
+          "nom": "Part-Dieu, L'Esprit Bistrot",
           "adresse": "198 rue Garibaldi",
           "codePostal": "69003",
           "ville": "LYON",
           "telephone": "Tel : 04.78.60.87.83",
           "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "5min"
+        },
+        {
+          "nom": "La Voie Himalaya",
+          "adresse": "200 rue Garibaldi\nRésa : lavoiehimalaya.fr",
+          "codePostal": "69003",
+          "ville": "LYON",
+          "telephone": "",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam.",
           "trajet": "5min"
         },
         {
@@ -989,22 +1005,6 @@
       "restaurants": []
     },
     {
-      "ig": "0126501",
-      "site": "Montréal-la-Cluse",
-      "zones": [],
-      "restaurants": [
-        {
-          "nom": "Le Pied dans l'Plat",
-          "adresse": "Le Pied dans l'Plat\n34 Rue Anatole France\n01100 OYONNAX\nTel : 04.74.73.48.75",
-          "codePostal": "",
-          "ville": "",
-          "telephone": "Tel : 06.79.82.40.12",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
-          "trajet": "17min"
-        }
-      ]
-    },
-    {
       "ig": "4314201",
       "site": "Montregard:la Berthe",
       "zones": ["AUV"],
@@ -1030,6 +1030,22 @@
       ]
     },
     {
+      "ig": "0126501",
+      "site": "Montréal-la-Cluse",
+      "zones": [],
+      "restaurants": [
+        {
+          "nom": "Le Pied dans l'Plat",
+          "adresse": "Le Pied dans l'Plat\n34 Rue Anatole France\n01100 OYONNAX\nTel : 04.74.73.48.75",
+          "codePostal": "",
+          "ville": "",
+          "telephone": "Tel : 06.79.82.40.12",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
+          "trajet": "17min"
+        }
+      ]
+    },
+    {
       "ig": "0304001",
       "site": "Moulins:Bressolles",
       "zones": ["AUV"],
@@ -1051,7 +1067,7 @@
       "zones": [],
       "restaurants": [
         {
-          "nom": "Restaurant le Mornay*",
+          "nom": "Restaurant le Mornay",
           "adresse": "2090 Rte du Berthiand",
           "codePostal": "01460",
           "ville": "NURIEUX6VOLOGNAT",
@@ -1130,7 +1146,7 @@
       "zones": [],
       "restaurants": [
         {
-          "nom": "Fenet, L'Esprit Bistrot*",
+          "nom": "Fenet, L'Esprit Bistrot",
           "adresse": "128 Chem. de Montray",
           "codePostal": "69110",
           "ville": "ST-FOY-LES-LYON",
@@ -1352,7 +1368,7 @@
       "zones": [],
       "restaurants": [
         {
-          "nom": "Les Terrasses de Pommiers*",
+          "nom": "Les Terrasses de Pommiers",
           "adresse": "706 Mnt de Buisante",
           "codePostal": "69480",
           "ville": "POMMIERS",
@@ -1391,22 +1407,6 @@
           "telephone": "Tel : 04.71.03.36.26",
           "ouverture": "Lun. Mar. Jeu. Ven. Sam. Dim.",
           "trajet": "14min"
-        }
-      ]
-    },
-    {
-      "ig": "4218101",
-      "site": "Régny",
-      "zones": ["AUV"],
-      "restaurants": [
-        {
-          "nom": "Restaurant \"La Fargette\"",
-          "adresse": "Françoise Geay\n11, Rue de Thizy",
-          "codePostal": "69470",
-          "ville": "COURS",
-          "telephone": "Tel : 04.74.89.73.65",
-          "ouverture": "",
-          "trajet": ""
         }
       ]
     },
@@ -1521,6 +1521,22 @@
       ]
     },
     {
+      "ig": "4218101",
+      "site": "Régny",
+      "zones": ["AUV"],
+      "restaurants": [
+        {
+          "nom": "Restaurant \"La Fargette\"",
+          "adresse": "Françoise Geay\n11, Rue de Thizy",
+          "codePostal": "69470",
+          "ville": "COURS",
+          "telephone": "Tel : 04.74.89.73.65",
+          "ouverture": "",
+          "trajet": ""
+        }
+      ]
+    },
+    {
       "ig": "4228801",
       "site": "Sail/s-Couzan 1",
       "zones": ["AUV"],
@@ -1580,90 +1596,6 @@
           "telephone": "Tel : 04.78.44.72.72",
           "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
           "trajet": "7min"
-        }
-      ]
-    },
-    {
-      "ig": "4322402",
-      "site": "Ste Sigolene",
-      "zones": ["AUV"],
-      "restaurants": [
-        {
-          "nom": "Les Bruyères",
-          "adresse": "Route de Bas en Basset",
-          "codePostal": "43120",
-          "ville": "MONISTROL-SUR-LOIRE",
-          "telephone": "Tel : 04.71.66.36.87",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam.",
-          "trajet": "19min"
-        },
-        {
-          "nom": "Aux 2 Coqs",
-          "adresse": "Le pré du Milieu",
-          "codePostal": "43210",
-          "ville": "BAS-EN-BASSET",
-          "telephone": "Tel : 04.71.66.72.15",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": "28min"
-        },
-        {
-          "nom": "Le Rencard",
-          "adresse": "13 Bd. De la Sablière",
-          "codePostal": "43210",
-          "ville": "BAS-EN-BASSET",
-          "telephone": "Tel : 09.50.92.17.20",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": "26min"
-        }
-      ]
-    },
-    {
-      "ig": "6922001",
-      "site": "Ste-Foy-l'Argentière",
-      "zones": [],
-      "restaurants": [
-        {
-          "nom": "La Table de Magalie*",
-          "adresse": "2-8, N89",
-          "codePostal": "69610",
-          "ville": "STE-FOY-L'ARGENTIERE",
-          "telephone": "Tel : 04.72.54.40.63",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam.",
-          "trajet": ""
-        }
-      ]
-    },
-    {
-      "ig": "4322401",
-      "site": "Ste-Sigolene 2",
-      "zones": ["AUV"],
-      "restaurants": [
-        {
-          "nom": "Les Bruyères",
-          "adresse": "Route de Bas en Basset",
-          "codePostal": "43120",
-          "ville": "MONISTROL-SUR-LOIRE",
-          "telephone": "Tel : 04.71.66.36.87",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam.",
-          "trajet": "11min"
-        },
-        {
-          "nom": "Aux 2 Coqs",
-          "adresse": "Le pré du Milieu",
-          "codePostal": "43210",
-          "ville": "BAS-EN-BASSET",
-          "telephone": "Tel : 04.71.66.72.15",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": "19min"
-        },
-        {
-          "nom": "Le Rencard",
-          "adresse": "13 Bd. De la Sablière",
-          "codePostal": "43210",
-          "ville": "BAS-EN-BASSET",
-          "telephone": "Tel : 09.50.92.17.20",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": "18min"
         }
       ]
     },
@@ -1816,15 +1748,6 @@
           "telephone": "Tel : 04.74.63.02.83",
           "ouverture": "Mer. Jeu. Ven. Sam.",
           "trajet": ""
-        },
-        {
-          "nom": "Rest - Bar Halte*",
-          "adresse": "Rest - Bar Halte*\n1674 Rte Tarare",
-          "codePostal": "",
-          "ville": "",
-          "telephone": "Tel : 04.74.69.23.46",
-          "ouverture": "",
-          "trajet": ""
         }
       ]
     },
@@ -1856,6 +1779,15 @@
       "zones": [],
       "restaurants": [
         {
+          "nom": "Auberge du Lac Genin",
+          "adresse": "18 route du Lac Genin\n--- Fermetue annuelle : ---\nmi-octobre à mi-décembre",
+          "codePostal": "01130",
+          "ville": "CHARIX",
+          "telephone": "Tel : 04.74.75.52.50",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "17min"
+        },
+        {
           "nom": "Auberge Les Gentianes",
           "adresse": "Auberge Les Gentianes\n490 route du Plateau\n01130 LE POIZAT-LALLEYRIAT\nTel : 06.98.92.25.62",
           "codePostal": "",
@@ -1872,15 +1804,6 @@
           "telephone": "Tel : 04.74.49.03.71",
           "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
           "trajet": "7min"
-        },
-        {
-          "nom": "Auberge du Lac Genin*",
-          "adresse": "Auberge du Lac Genin*\n18 route du Lac Genin\n01130 Charix\nTel : 04.74.75.52.50\n--- Fermetue annuelle : ---\nmi-octobre à mi-décembre",
-          "codePostal": "",
-          "ville": "",
-          "telephone": "",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": "17min"
         }
       ]
     },
@@ -1897,31 +1820,6 @@
           "telephone": "Tel : 09.67.33.03.30",
           "ouverture": "",
           "trajet": ""
-        }
-      ]
-    },
-    {
-      "ig": "4204701",
-      "site": "St-Just-en-Chevalet",
-      "zones": ["AUV"],
-      "restaurants": [
-        {
-          "nom": "~ NON TESTÉ ~",
-          "adresse": "Hôtel de Londres\nPlace de Rochetaillée",
-          "codePostal": "42430",
-          "ville": "ST-JUST-EN-CHEVALET",
-          "telephone": "Tel : 04.77.65.02.42",
-          "ouverture": "Lun. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": "16min"
-        },
-        {
-          "nom": "Mc Donalds",
-          "adresse": "Aire du Forez Sud A89\n(Accès par la D53)",
-          "codePostal": "42440",
-          "ville": "LES SALLES",
-          "telephone": "Tel : 04.77.24.78.89",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": "12min"
         }
       ]
     },
@@ -1956,6 +1854,31 @@
           "telephone": "Tel : 04.77.79.90.37",
           "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
           "trajet": "3min"
+        }
+      ]
+    },
+    {
+      "ig": "4204701",
+      "site": "St-Just-en-Chevalet",
+      "zones": ["AUV"],
+      "restaurants": [
+        {
+          "nom": "~ NON TESTÉ ~",
+          "adresse": "Hôtel de Londres\nPlace de Rochetaillée",
+          "codePostal": "42430",
+          "ville": "ST-JUST-EN-CHEVALET",
+          "telephone": "Tel : 04.77.65.02.42",
+          "ouverture": "Lun. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "16min"
+        },
+        {
+          "nom": "Mc Donalds",
+          "adresse": "Aire du Forez Sud A89\n(Accès par la D53)",
+          "codePostal": "42440",
+          "ville": "LES SALLES",
+          "telephone": "Tel : 04.77.24.78.89",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "12min"
         }
       ]
     },
@@ -2010,6 +1933,90 @@
       ]
     },
     {
+      "ig": "4322402",
+      "site": "Ste Sigolene",
+      "zones": ["AUV"],
+      "restaurants": [
+        {
+          "nom": "Les Bruyères",
+          "adresse": "Route de Bas en Basset",
+          "codePostal": "43120",
+          "ville": "MONISTROL-SUR-LOIRE",
+          "telephone": "Tel : 04.71.66.36.87",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": "19min"
+        },
+        {
+          "nom": "Aux 2 Coqs",
+          "adresse": "Le pré du Milieu",
+          "codePostal": "43210",
+          "ville": "BAS-EN-BASSET",
+          "telephone": "Tel : 04.71.66.72.15",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "28min"
+        },
+        {
+          "nom": "Le Rencard",
+          "adresse": "13 Bd. De la Sablière",
+          "codePostal": "43210",
+          "ville": "BAS-EN-BASSET",
+          "telephone": "Tel : 09.50.92.17.20",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "26min"
+        }
+      ]
+    },
+    {
+      "ig": "6922001",
+      "site": "Ste-Foy-l'Argentière",
+      "zones": [],
+      "restaurants": [
+        {
+          "nom": "La Table de Magalie",
+          "adresse": "2-8, N89",
+          "codePostal": "69610",
+          "ville": "STE-FOY-L'ARGENTIERE",
+          "telephone": "Tel : 04.72.54.40.63",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": ""
+        }
+      ]
+    },
+    {
+      "ig": "4322401",
+      "site": "Ste-Sigolene 2",
+      "zones": ["AUV"],
+      "restaurants": [
+        {
+          "nom": "Les Bruyères",
+          "adresse": "Route de Bas en Basset",
+          "codePostal": "43120",
+          "ville": "MONISTROL-SUR-LOIRE",
+          "telephone": "Tel : 04.71.66.36.87",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": "11min"
+        },
+        {
+          "nom": "Aux 2 Coqs",
+          "adresse": "Le pré du Milieu",
+          "codePostal": "43210",
+          "ville": "BAS-EN-BASSET",
+          "telephone": "Tel : 04.71.66.72.15",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "19min"
+        },
+        {
+          "nom": "Le Rencard",
+          "adresse": "13 Bd. De la Sablière",
+          "codePostal": "43210",
+          "ville": "BAS-EN-BASSET",
+          "telephone": "Tel : 09.50.92.17.20",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "18min"
+        }
+      ]
+    },
+    {
       "ig": "6924304",
       "site": "Tarare 1:Bel Air",
       "zones": [],
@@ -2030,15 +2037,6 @@
           "ville": "TARARE",
           "telephone": "Tel : 04.74.63.02.83",
           "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
-          "trajet": ""
-        },
-        {
-          "nom": "Rest - Bar Halte*",
-          "adresse": "Rest - Bar Halte*\n1674 Rte Tarare",
-          "codePostal": "",
-          "ville": "",
-          "telephone": "Tel : 04.74.69.23.46",
-          "ouverture": "",
           "trajet": ""
         }
       ]
@@ -2064,15 +2062,6 @@
           "ville": "TARARE",
           "telephone": "Tel : 04.74.63.02.83",
           "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
-          "trajet": ""
-        },
-        {
-          "nom": "Rest - Bar Halte*",
-          "adresse": "Rest - Bar Halte*\n1674 Rte Tarare",
-          "codePostal": "",
-          "ville": "",
-          "telephone": "Tel : 04.74.69.23.46",
-          "ouverture": "",
           "trajet": ""
         }
       ]
@@ -2133,20 +2122,20 @@
       "zones": [],
       "restaurants": [
         {
-          "nom": "Ninkasi Vaise*",
-          "adresse": "8 rue de la Navigation",
-          "codePostal": "69009",
-          "ville": "Lyon",
-          "telephone": "Tel : 04.69.84.20.81",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": "5min"
-        },
-        {
-          "nom": "Au Bureau Lyon Vaise*",
+          "nom": "Au Bureau Lyon Vaise",
           "adresse": "10 rue de la Navigation",
           "codePostal": "69009",
           "ville": "LYON",
           "telephone": "Tel : 04.78.33.30.83",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "5min"
+        },
+        {
+          "nom": "Ninkasi Vaise",
+          "adresse": "8 rue de la Navigation",
+          "codePostal": "69009",
+          "ville": "LYON",
+          "telephone": "Tel : 04.69.84.20.81",
           "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
           "trajet": "5min"
         },
