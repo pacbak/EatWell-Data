@@ -1,0 +1,28 @@
+{
+  "androidId": "45a8afa59778bb27",
+  "dataZone": {
+    "ig": "2222222",
+    "restaurants": [
+      {
+        "adresse": "rue du Gogo",
+        "codePostal": "43000",
+        "nom": "Resto Gogo",
+        "ouverture": "Lun. Mar. Jeu. Dim.",
+        "telephone": "Tel : 00.00.00.00.00",
+        "trajet": "45",
+        "ville": "PARIS"
+      }
+    ],
+    "site": "Test02",
+    "zones": [
+      "AUV",
+      "SE"
+    ]
+  },
+  "id": "Pac_1783256992757",
+  "siteName": "Test02",
+  "timestamp": 1783256992757,
+  "type": "SITE",
+  "userName": "Pac",
+  "zoneIg": "2222222"
+}
