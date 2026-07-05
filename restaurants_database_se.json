@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0705.1225",
+  "db_version": "26.0705.1240",
   "zone": [
     {
       "ig": "4300301",
@@ -24,9 +24,7 @@
         }
       ],
       "site": "Allegre:Chateauneuf",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6900601",
@@ -106,9 +104,7 @@
         }
       ],
       "site": "Arfeuilles",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "0141602",
@@ -149,9 +145,7 @@
         }
       ],
       "site": "Aurec/Loire 1",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6311388",
@@ -203,9 +197,7 @@
         }
       ],
       "site": "Base de Clermont",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6921801",
@@ -264,9 +256,7 @@
         }
       ],
       "site": "Beauzac 2",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4201501",
@@ -282,9 +272,7 @@
         }
       ],
       "site": "Belmont de la loire",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6906702",
@@ -322,9 +310,7 @@
         }
       ],
       "site": "Boën",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4202801",
@@ -340,9 +326,7 @@
         }
       ],
       "site": "Bourg-Argental 1",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4202301",
@@ -358,9 +342,7 @@
         }
       ],
       "site": "Bourg-Argental 2",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6300801",
@@ -376,9 +358,7 @@
         }
       ],
       "site": "Chabreloche:Arconsat",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4204101",
@@ -403,9 +383,7 @@
         }
       ],
       "site": "CHAMBEON:A72",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4305101",
@@ -421,9 +399,7 @@
         }
       ],
       "site": "Chambon/Lignon 1",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4305102",
@@ -439,9 +415,7 @@
         }
       ],
       "site": "Chambon/Lignon 2",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4204401",
@@ -457,9 +431,7 @@
         }
       ],
       "site": "Chambon-Feugerolles 1",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6927101",
@@ -500,9 +472,7 @@
         }
       ],
       "site": "Clermont:Puy-de-Dôme (PDD)",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6906605",
@@ -577,9 +547,7 @@
         }
       ],
       "site": "Firminy 1:Unieux",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4209501",
@@ -604,9 +572,7 @@
         }
       ],
       "site": "Firminy 2:Crassier",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4209701",
@@ -622,9 +588,7 @@
         }
       ],
       "site": "Fouillouse (La)",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6927801",
@@ -717,9 +681,7 @@
         }
       ],
       "site": "ITA_Beauzac 2",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6915502",
@@ -760,9 +722,7 @@
         }
       ],
       "site": "L HOPITAL LE GD:A72",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4306101",
@@ -787,9 +747,7 @@
         }
       ],
       "site": "Lavoute/Loire 1",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "0316501",
@@ -805,9 +763,7 @@
         }
       ],
       "site": "Le-Mayet-de-Montagne",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6911401",
@@ -925,9 +881,7 @@
         }
       ],
       "site": "Lyon:Mt-Pilat",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6919101",
@@ -983,9 +937,7 @@
       "ig": "4228001",
       "restaurants": [],
       "site": "Marlhes:St Régis",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4302001",
@@ -1028,17 +980,13 @@
         }
       ],
       "site": "Monistrol/Loire 1",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4214703",
       "restaurants": [],
       "site": "Montbrison Grange",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "0126501",
@@ -1079,9 +1027,7 @@
         }
       ],
       "site": "Montregard:la Berthe",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "0304001",
@@ -1097,9 +1043,7 @@
         }
       ],
       "site": "Moulins:Bressolles",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "0126702",
@@ -1130,9 +1074,7 @@
       "ig": "4215402",
       "restaurants": [],
       "site": "Neronde - A89",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4215601",
@@ -1148,9 +1090,7 @@
         }
       ],
       "site": "Neulise:crx du frene",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "0127401",
@@ -1182,9 +1122,7 @@
         }
       ],
       "site": "Noirétable",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6920201",
@@ -1354,9 +1292,7 @@
         }
       ],
       "site": "Planfoy",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4217203",
@@ -1408,9 +1344,7 @@
         }
       ],
       "site": "Planfoy Guizay",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6915651",
@@ -1458,9 +1392,7 @@
         }
       ],
       "site": "Puy:St-Jean-de-Nay",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4218101",
@@ -1476,9 +1408,7 @@
         }
       ],
       "site": "Régny",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "3833601",
@@ -1516,17 +1446,13 @@
       "ig": "4218601",
       "restaurants": [],
       "site": "Rive-de-Gier 1",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4225901",
       "restaurants": [],
       "site": "Rive-de-Gier 2",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4219801",
@@ -1542,9 +1468,7 @@
         }
       ],
       "site": "Roanne 1:St-Alban",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4217001",
@@ -1569,9 +1493,7 @@
         }
       ],
       "site": "Roanne 2:Perreux",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4218901",
@@ -1596,17 +1518,13 @@
         }
       ],
       "site": "Roche-la-Molière",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4228801",
       "restaurants": [],
       "site": "Sail/s-Couzan 1",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4229701",
@@ -1622,9 +1540,7 @@
         }
       ],
       "site": "Salvizinet:Valette",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4203201",
@@ -1649,9 +1565,7 @@
         }
       ],
       "site": "St-Chamond:Cellieu",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6915501",
@@ -1701,9 +1615,7 @@
         }
       ],
       "site": "Ste Sigolene",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6922001",
@@ -1753,9 +1665,7 @@
         }
       ],
       "site": "Ste-Sigolene 2",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4223701",
@@ -1789,9 +1699,7 @@
         }
       ],
       "site": "St-Etienne 2:St-Jean",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4221801",
@@ -1825,9 +1733,7 @@
         }
       ],
       "site": "St-Etienne 3:Clapier",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4221804",
@@ -1843,9 +1749,7 @@
         }
       ],
       "site": "St-Etienne 4:Condam.",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4217202",
@@ -1897,9 +1801,7 @@
         }
       ],
       "site": "St-Etienne:Guizay",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6920001",
@@ -1940,17 +1842,13 @@
         }
       ],
       "site": "St-Galmier:Lézigneux",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4222301",
       "restaurants": [],
       "site": "St-Genest-Lerpt",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "0120401",
@@ -2025,9 +1923,7 @@
         }
       ],
       "site": "St-Just-en-Chevalet",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "4204201",
@@ -2061,9 +1957,7 @@
         }
       ],
       "site": "St-Just-St-Rambert",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6906003",
@@ -2281,9 +2175,7 @@
         }
       ],
       "site": "Veauchette:A72",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "3854401",
@@ -2331,9 +2223,7 @@
         }
       ],
       "site": "Villars:l'Etrat",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "0117704",
@@ -2381,9 +2271,7 @@
         }
       ],
       "site": "Violay",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "6346801",
@@ -2399,9 +2287,7 @@
         }
       ],
       "site": "Vollore-Montagne",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     },
     {
       "ig": "0332101",
@@ -2417,9 +2303,7 @@
         }
       ],
       "site": "Yzeure",
-      "zones": [
-        "AUV"
-      ]
+      "zones": ["AUV"]
     }
   ]
 }
