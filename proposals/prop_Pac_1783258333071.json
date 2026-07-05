@@ -1,0 +1,18 @@
+{
+  "androidId": "45a8afa59778bb27",
+  "dataZone": {
+    "ig": "1111111",
+    "restaurants": [],
+    "site": "Test 01",
+    "zones": [
+      "AUV",
+      "SE"
+    ]
+  },
+  "id": "Pac_1783258333069",
+  "siteName": "Test 01",
+  "timestamp": 1783258333071,
+  "type": "SITE",
+  "userName": "Pac",
+  "zoneIg": "1111111"
+}
