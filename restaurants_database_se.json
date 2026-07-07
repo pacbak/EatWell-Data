@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0706.1329",
+  "db_version": "26.0707.1201",
   "zone": [
     {
       "ig": "4300301",
@@ -1446,13 +1446,51 @@
       "ig": "4218601",
       "site": "Rive-de-Gier 1",
       "zones": ["AUV"],
-      "restaurants": []
+      "restaurants": [
+        {
+          "nom": "SUSHI LIN",
+          "adresse": "88 Rue Jean Jaurès\n(non testé)",
+          "codePostal": "42800",
+          "ville": "RIVE-DE-GIER",
+          "telephone": "Tel : 04.27.64.98.71",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": "4"
+        },
+        {
+          "nom": "Néné & Carmelo",
+          "adresse": "55 Rue Claude Drivo\n(non testé)",
+          "codePostal": "42800",
+          "ville": "RIVE-DE-GIER",
+          "telephone": "Tel : 04.77.75.78.88",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "8"
+        }
+      ]
     },
     {
       "ig": "4225901",
       "site": "Rive-de-Gier 2",
       "zones": ["AUV"],
-      "restaurants": []
+      "restaurants": [
+        {
+          "nom": "SUSHI LIN",
+          "adresse": "88 Rue Jean Jaurès\n(non testé)",
+          "codePostal": "42800",
+          "ville": "RIVE-DE-GIER",
+          "telephone": "Tel : 04.27.64.98.71",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": ""
+        },
+        {
+          "nom": "Néné & Carmelo",
+          "adresse": "55 Rue Claude Drivo\n(non testé)",
+          "codePostal": "42800",
+          "ville": "RIVE-DE-GIER",
+          "telephone": "Tel : 04.77.75.78.88",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": ""
+        }
+      ]
     },
     {
       "ig": "4219801",
