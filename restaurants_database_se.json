@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0708.1201",
+  "db_version": "26.0708.1214",
   "zone": [
     {
       "ig": "4300301",
@@ -703,7 +703,26 @@
       "ig": "6910207",
       "site": "ITA_Joux",
       "zones": ["AUV", "SE"],
-      "restaurants": []
+      "restaurants": [
+        {
+          "nom": "Hoodo",
+          "adresse": "Restaurant Brasserie\n1 Av. Edouard Herriot",
+          "codePostal": "69170",
+          "ville": "TARARE",
+          "telephone": "Tel : 04.22.91.71.65",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": "12"
+        },
+        {
+          "nom": "Hoodo",
+          "adresse": "Restaurant Brasserie\n1 Av. Edouard Herriot",
+          "codePostal": "69170",
+          "ville": "TARARE",
+          "telephone": "Tel : 04.22.91.71.65",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": ""
+        }
+      ]
     },
     {
       "ig": "6915502",
