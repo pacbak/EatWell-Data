@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0708.1214",
+  "db_version": "26.0708.1231",
   "zone": [
     {
       "ig": "4300301",
@@ -702,7 +702,7 @@
     {
       "ig": "6910207",
       "site": "ITA_Joux",
-      "zones": ["AUV", "SE"],
+      "zones": ["SE"],
       "restaurants": [
         {
           "nom": "Hoodo",
