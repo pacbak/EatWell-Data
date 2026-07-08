@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0707.1201",
+  "db_version": "26.0708.1201",
   "zone": [
     {
       "ig": "4300301",
@@ -698,6 +698,12 @@
           "trajet": "12min"
         }
       ]
+    },
+    {
+      "ig": "6910207",
+      "site": "ITA_Joux",
+      "zones": ["AUV", "SE"],
+      "restaurants": []
     },
     {
       "ig": "6915502",
