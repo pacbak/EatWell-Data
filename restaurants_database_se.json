@@ -711,15 +711,6 @@
           "ville": "TARARE",
           "telephone": "Tel : 04.22.91.71.65",
           "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
-          "trajet": "12"
-        },
-        {
-          "nom": "Hoodo",
-          "adresse": "Restaurant Brasserie\n1 Av. Edouard Herriot",
-          "codePostal": "69170",
-          "ville": "TARARE",
-          "telephone": "Tel : 04.22.91.71.65",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
           "trajet": ""
         }
       ]
