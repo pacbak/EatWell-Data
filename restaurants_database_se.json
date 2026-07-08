@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0708.1231",
+  "db_version": "26.0708.1236",
   "zone": [
     {
       "ig": "4300301",
@@ -704,6 +704,15 @@
       "site": "ITA_Joux",
       "zones": ["SE"],
       "restaurants": [
+        {
+          "nom": "McDonald's",
+          "adresse": "79 Bd Garibaldi",
+          "codePostal": "69170",
+          "ville": "TARARE",
+          "telephone": "Tel : 04.74.63.09.85",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "13"
+        },
         {
           "nom": "Hoodo",
           "adresse": "Restaurant Brasserie\n1 Av. Edouard Herriot",
