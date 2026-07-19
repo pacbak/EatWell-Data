@@ -1,6 +1,12 @@
 {
-  "db_version": "26.0708.1236",
+  "db_version": "26.0719.2310",
   "zone": [
+    {
+      "ig": "1111111",
+      "site": "Aaaaaa",
+      "zones": ["AUV", "SE"],
+      "restaurants": []
+    },
     {
       "ig": "4300301",
       "site": "Allegre:Chateauneuf",
