@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0721.0820",
+  "db_version": "26.0722.2307",
   "zone": [
     {
       "ig": "4300301",
@@ -1307,15 +1307,6 @@
           "trajet": "6min"
         },
         {
-          "nom": "O2 Thym",
-          "adresse": "2 Rue le Châtelier",
-          "codePostal": "42100",
-          "ville": "ST-ETIENNE",
-          "telephone": "Tel : 04.77.57.94.85",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
-          "trajet": "15min"
-        },
-        {
           "nom": "Tom Sawyer",
           "adresse": "8 rue Gabriel Péri",
           "codePostal": "42100",
@@ -1357,15 +1348,6 @@
           "telephone": "Tel : 04.77.51.40.27",
           "ouverture": "Lun. Mar. Jeu. Ven.",
           "trajet": "8min"
-        },
-        {
-          "nom": "O2 Thym",
-          "adresse": "2 Rue le Châtelier",
-          "codePostal": "42100",
-          "ville": "ST-ETIENNE",
-          "telephone": "Tel : 04.77.57.94.85",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
-          "trajet": "11min"
         },
         {
           "nom": "Tom Sawyer",
@@ -1677,15 +1659,6 @@
           "trajet": "5min"
         },
         {
-          "nom": "O2 Thym",
-          "adresse": "2 Rue le Châtelier",
-          "codePostal": "42100",
-          "ville": "ST-ETIENNE",
-          "telephone": "Tel : 04.77.57.94.85",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
-          "trajet": "13min"
-        },
-        {
           "nom": "Sushiyama",
           "adresse": "138 Av. Albert Raimond",
           "codePostal": "42270",
@@ -1701,15 +1674,6 @@
       "site": "St-Etienne 3:Clapier",
       "zones": ["AUV"],
       "restaurants": [
-        {
-          "nom": "O2 Thym",
-          "adresse": "2 Rue le Châtelier",
-          "codePostal": "42100",
-          "ville": "ST-ETIENNE",
-          "telephone": "Tel : 04.77.57.94.85",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
-          "trajet": "8min"
-        },
         {
           "nom": "Sushiyama",
           "adresse": "138 Av. Albert Raimond",
@@ -1768,15 +1732,6 @@
           "telephone": "Tel : 04.77.51.40.27",
           "ouverture": "Lun. Mar. Jeu. Ven.",
           "trajet": "8min"
-        },
-        {
-          "nom": "O2 Thym",
-          "adresse": "2 Rue le Châtelier",
-          "codePostal": "42100",
-          "ville": "ST-ETIENNE",
-          "telephone": "Tel : 04.77.57.94.85",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
-          "trajet": "11min"
         },
         {
           "nom": "Tom Sawyer",
