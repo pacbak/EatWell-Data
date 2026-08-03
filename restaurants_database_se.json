@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0722.2308",
+  "db_version": "26.0803.1738",
   "zone": [
     {
       "ig": "4300301",
@@ -1699,6 +1699,15 @@
       "site": "St-Etienne 4:Condam.",
       "zones": ["AUV"],
       "restaurants": [
+        {
+          "nom": "Tokyo",
+          "adresse": "Le Cinépole, 172 Av. du Stade\nBâtiment D",
+          "codePostal": "42170",
+          "ville": "ST-JUST-ST-RAMBERT",
+          "telephone": "Tel : 04.87.66.78.62",
+          "ouverture": "Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "18"
+        },
         {
           "nom": "Les Ramparts de Saint-Rambert",
           "adresse": "2A Rue de la Loire",
