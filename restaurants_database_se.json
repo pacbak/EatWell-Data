@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0803.1738",
+  "db_version": "26.0809.1220",
   "zone": [
     {
       "ig": "4300301",
@@ -2083,6 +2083,15 @@
       "zones": [],
       "restaurants": [
         {
+          "nom": "Brasserie Hoodo",
+          "adresse": "1 Av. Edouard Harriot",
+          "codePostal": "69170",
+          "ville": "TARARE",
+          "telephone": "Tel : 04.22.91.71.65",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": ""
+        },
+        {
           "nom": "Le Cav'O",
           "adresse": "7 place G.A. Simonet",
           "codePostal": "69170",
@@ -2107,6 +2116,15 @@
       "site": "Tarare- Le Janin",
       "zones": [],
       "restaurants": [
+        {
+          "nom": "Brasserie Hoodo",
+          "adresse": "1 Av. Edouard Harriot",
+          "codePostal": "69170",
+          "ville": "TARARE",
+          "telephone": "Tel : 04.22.91.71.65",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": ""
+        },
         {
           "nom": "Le Cav'O",
           "adresse": "7 place G.A. Simonet",
