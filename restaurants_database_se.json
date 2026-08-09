@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0809.1222",
+  "db_version": "26.0809.1228",
   "zone": [
     {
       "ig": "4300301",
@@ -705,6 +705,24 @@
       "zones": ["SE"],
       "restaurants": [
         {
+          "nom": "La Fourchette",
+          "adresse": "3 Pl. de la République",
+          "codePostal": "69170",
+          "ville": "TARARE",
+          "telephone": "Tel : 04.74.63.02.83",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": "11"
+        },
+        {
+          "nom": "Brasserie Hoodo",
+          "adresse": "Restaurant Brasserie\n1 Av. Edouard Herriot",
+          "codePostal": "69170",
+          "ville": "TARARE",
+          "telephone": "Tel : 04.22.91.71.65",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": "11"
+        },
+        {
           "nom": "McDonald's",
           "adresse": "79 Bd Garibaldi",
           "codePostal": "69170",
@@ -712,15 +730,6 @@
           "telephone": "Tel : 04.74.63.09.85",
           "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
           "trajet": "13"
-        },
-        {
-          "nom": "Hoodo",
-          "adresse": "Restaurant Brasserie\n1 Av. Edouard Herriot",
-          "codePostal": "69170",
-          "ville": "TARARE",
-          "telephone": "Tel : 04.22.91.71.65",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
-          "trajet": ""
         }
       ]
     },
@@ -1700,6 +1709,15 @@
       "zones": ["AUV"],
       "restaurants": [
         {
+          "nom": "Amie Sushi Fusion",
+          "adresse": "36 Impasse St-Exupéry",
+          "codePostal": "42480",
+          "ville": "LA FOUILLOUSE",
+          "telephone": "Tel : 04.77.36.49.14",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "21"
+        },
+        {
           "nom": "Les Ramparts de St-Rambert",
           "adresse": "2A Rue de la Loire",
           "codePostal": "42170",
@@ -2083,21 +2101,12 @@
       "zones": [],
       "restaurants": [
         {
-          "nom": "Brasserie Hoodo",
-          "adresse": "1 Av. Edouard Harriot",
+          "nom": "McDonald's",
+          "adresse": "79 Bd Garibaldi",
           "codePostal": "69170",
           "ville": "TARARE",
-          "telephone": "Tel : 04.22.91.71.65",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
-          "trajet": ""
-        },
-        {
-          "nom": "Le Cav'O",
-          "adresse": "7 place G.A. Simonet",
-          "codePostal": "69170",
-          "ville": "Tarare",
-          "telephone": "Tel : 04.74.05.64.26",
-          "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
+          "telephone": "Tel : 04.74.63.09.85",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
           "trajet": ""
         },
         {
@@ -2107,6 +2116,24 @@
           "ville": "TARARE",
           "telephone": "Tel : 04.74.63.02.83",
           "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": "9"
+        },
+        {
+          "nom": "Brasserie Hoodo",
+          "adresse": "1 Av. Edouard Harriot",
+          "codePostal": "69170",
+          "ville": "TARARE",
+          "telephone": "Tel : 04.22.91.71.65",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": "8"
+        },
+        {
+          "nom": "Le Cav'O",
+          "adresse": "7 place G.A. Simonet",
+          "codePostal": "69170",
+          "ville": "Tarare",
+          "telephone": "Tel : 04.74.05.64.26",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
           "trajet": ""
         }
       ]
@@ -2117,13 +2144,31 @@
       "zones": [],
       "restaurants": [
         {
+          "nom": "McDonald's",
+          "adresse": "79 Bd Garibaldi",
+          "codePostal": "69170",
+          "ville": "TARARE",
+          "telephone": "Tel : 04.74.63.09.85",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": ""
+        },
+        {
+          "nom": "La Fourchette",
+          "adresse": "3 Pl. de la République",
+          "codePostal": "69170",
+          "ville": "TARARE",
+          "telephone": "Tel : 04.74.63.02.83",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
+          "trajet": "6"
+        },
+        {
           "nom": "Brasserie Hoodo",
           "adresse": "1 Av. Edouard Harriot",
           "codePostal": "69170",
           "ville": "TARARE",
           "telephone": "Tel : 04.22.91.71.65",
           "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
-          "trajet": ""
+          "trajet": "6"
         },
         {
           "nom": "Le Cav'O",
@@ -2133,15 +2178,6 @@
           "telephone": "Tel : 04.74.05.64.26",
           "ouverture": "Lun. Mar. Mer. Jeu. Ven.",
           "trajet": "7min"
-        },
-        {
-          "nom": "La Fourchette",
-          "adresse": "3 Pl. de la République",
-          "codePostal": "69170",
-          "ville": "TARARE",
-          "telephone": "Tel : 04.74.63.02.83",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam.",
-          "trajet": ""
         }
       ]
     },
