@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0809.1220",
+  "db_version": "26.0809.1222",
   "zone": [
     {
       "ig": "4300301",
@@ -1700,6 +1700,15 @@
       "zones": ["AUV"],
       "restaurants": [
         {
+          "nom": "Les Ramparts de St-Rambert",
+          "adresse": "2A Rue de la Loire",
+          "codePostal": "42170",
+          "ville": "ST-JUST-ST-RAMBERT",
+          "telephone": "Tel : 04.77.79.90.37",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "18min"
+        },
+        {
           "nom": "Tokyo",
           "adresse": "Le Cinépole, 172 Av. du Stade\nBâtiment D",
           "codePostal": "42170",
@@ -1707,15 +1716,6 @@
           "telephone": "Tel : 04.87.66.78.62",
           "ouverture": "Mer. Jeu. Ven. Sam. Dim.",
           "trajet": "18"
-        },
-        {
-          "nom": "Les Ramparts de Saint-Rambert",
-          "adresse": "2A Rue de la Loire",
-          "codePostal": "42170",
-          "ville": "ST-JUST-ST-RAMBERT",
-          "telephone": "Tel : 04.77.79.90.37",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": "18min"
         }
       ]
     },
@@ -1856,6 +1856,15 @@
       "zones": ["AUV"],
       "restaurants": [
         {
+          "nom": "Les Ramparts de St-Rambert",
+          "adresse": "2A Rue de la Loire",
+          "codePostal": "42170",
+          "ville": "ST-JUST-ST-RAMBERT",
+          "telephone": "Tel : 04.77.79.90.37",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "3min"
+        },
+        {
           "nom": "Amie Sushi Fusion",
           "adresse": "36 Impasse St-Exupéry",
           "codePostal": "42480",
@@ -1872,15 +1881,6 @@
           "telephone": "Tel : 04.87.66.78.62",
           "ouverture": "Mer. Jeu. Ven. Sam. Dim.",
           "trajet": "10min"
-        },
-        {
-          "nom": "Les Ramparts de Saint-Rambert",
-          "adresse": "2A Rue de la Loire",
-          "codePostal": "42170",
-          "ville": "ST-JUST-ST-RAMBERT",
-          "telephone": "Tel : 04.77.79.90.37",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": "3min"
         }
       ]
     },
@@ -1965,6 +1965,15 @@
       "zones": ["AUV", "SE"],
       "restaurants": [
         {
+          "nom": "Les Ramparts de St-Rambert",
+          "adresse": "2A Rue de la Loire",
+          "codePostal": "42170",
+          "ville": "ST-JUST-ST-RAMBERT",
+          "telephone": "Tel : 04.77.79.90.37",
+          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "9"
+        },
+        {
           "nom": "Amie Sushi Fusion",
           "adresse": "36 Impasse St-Exupéry",
           "codePostal": "42480",
@@ -1972,15 +1981,6 @@
           "telephone": "Tel : 04.77.36.49.14",
           "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
           "trajet": "11"
-        },
-        {
-          "nom": "Les Ramparts de Saint-Rambert",
-          "adresse": "2A Rue de la Loire",
-          "codePostal": "42170",
-          "ville": "ST-JUST-ST-RAMBERT",
-          "telephone": "Tel : 04.77.79.90.37",
-          "ouverture": "Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": "9"
         },
         {
           "nom": "Tokyo",
