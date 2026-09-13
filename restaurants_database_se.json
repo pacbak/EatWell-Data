@@ -1,5 +1,5 @@
 {
-  "db_version": "26.0809.1228",
+  "db_version": "26.0913.1607",
   "zone": [
     {
       "ig": "4300301",
@@ -545,6 +545,15 @@
       "site": "Firminy 1:Unieux",
       "zones": ["AUV"],
       "restaurants": [
+        {
+          "nom": "Domaine du Moulin",
+          "adresse": "Lieudit La Mures\n6 route de St-Maurice",
+          "codePostal": "42240",
+          "ville": "CALOIRE",
+          "telephone": "Tel : 06.63.42.03.66",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": ""
+        },
         {
           "nom": "Buffalo Grill",
           "adresse": "Lotissement de la Pra\n14 Imp. des Artisans",
