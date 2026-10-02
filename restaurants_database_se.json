@@ -1,5 +1,5 @@
 {
-  "db_version": "26.1002.1128",
+  "db_version": "26.1002.1130",
   "zone": [
     {
       "ig": "4300301",
@@ -154,11 +154,11 @@
       "restaurants": [
         {
           "nom": "Tu as trouvé la carte secrète !",
-          "adresse": "Oseras-tu appuyer sur le bouton \"Appeler\" ?\nT'inquiète... Le téléphone ne va pas t'exploser dans les mains.",
+          "adresse": "",
           "codePostal": "",
           "ville": "EATWELL",
           "telephone": "*#0*#",
-          "ouverture": "Dans les entrailles du Smartphone...",
+          "ouverture": "Mar.",
           "trajet": "666"
         }
       ]
@@ -2251,7 +2251,7 @@
           "codePostal": "",
           "ville": "",
           "telephone": "*#0*#",
-          "ouverture": "Dans les entrailles du Smartphone...",
+          "ouverture": "Mar.",
           "trajet": "666"
         }
       ]
