@@ -1,5 +1,5 @@
 {
-  "db_version": "26.1002.1130",
+  "db_version": "26.1005.1253",
   "zone": [
     {
       "ig": "4300301",
@@ -1667,6 +1667,15 @@
       "site": "St-Etienne 2:St-Jean",
       "zones": ["AUV"],
       "restaurants": [
+        {
+          "nom": "M.s. Pizza Et Kebab",
+          "adresse": "26 Rue Victor Hugo",
+          "codePostal": "42650",
+          "ville": "ST-JEAN-BONNEFONDS",
+          "telephone": "Tel : 04.77.95.10.21",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "3"
+        },
         {
           "nom": "O Dragon",
           "adresse": "13 rue Marc Charras",
