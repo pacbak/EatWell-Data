@@ -1,5 +1,5 @@
 {
-  "db_version": "26.1005.1253",
+  "db_version": "26.1007.1252",
   "zone": [
     {
       "ig": "4300301",
@@ -2327,7 +2327,7 @@
           "ville": "VIENNE",
           "telephone": "Tel : 04.74.85.50.60",
           "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": ""
+          "trajet": "9"
         }
       ]
     },
