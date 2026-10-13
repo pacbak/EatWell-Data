@@ -1,5 +1,5 @@
 {
-  "db_version": "26.1007.1933",
+  "db_version": "26.1013.1547",
   "zone": [
     {
       "ig": "4300301",
@@ -168,6 +168,15 @@
       "site": "Base de Clermont",
       "zones": ["AUV"],
       "restaurants": [
+        {
+          "nom": "Honoré table auvergnate",
+          "adresse": "64 av Ernest cristal",
+          "codePostal": "63170",
+          "ville": "AUBIÈRE",
+          "telephone": "Tel : 04.73.74.24.19",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "8"
+        },
         {
           "nom": "Restaurant l'Opthimus",
           "adresse": "41 rue Jules Vernes",
@@ -2343,7 +2352,16 @@
           "ville": "VIENNE",
           "telephone": "Tel : 04.74.85.50.60",
           "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
-          "trajet": ""
+          "trajet": "10"
+        },
+        {
+          "nom": "Mc Donald Vienne",
+          "adresse": "30 Quai Pasteur",
+          "codePostal": "38200",
+          "ville": "VIENNE",
+          "telephone": "Tel : 04.74.85.50.60",
+          "ouverture": "Lun. Mar. Mer. Jeu. Ven. Sam. Dim.",
+          "trajet": "10"
         }
       ]
     },
