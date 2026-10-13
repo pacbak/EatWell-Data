@@ -1,5 +1,5 @@
 {
-  "db_version": "26.1013.1547",
+  "db_version": "26.1013.1548",
   "zone": [
     {
       "ig": "4300301",
@@ -169,7 +169,7 @@
       "zones": ["AUV"],
       "restaurants": [
         {
-          "nom": "Honoré table auvergnate",
+          "nom": "Honoré Table Auvergnate",
           "adresse": "64 av Ernest cristal",
           "codePostal": "63170",
           "ville": "AUBIÈRE",
